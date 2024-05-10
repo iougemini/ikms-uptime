@@ -9,7 +9,7 @@ sites:
     check: "tcp-ping"
   - name: 备用KMS激活服务器 01
     url: s01.ikms.eu.org
-    port: 443
+    port: 1688
     check: "tcp-ping"
   - name: 备用KMS激活服务器 02
     url: s02.ikms.eu.org
