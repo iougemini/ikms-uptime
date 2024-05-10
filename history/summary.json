@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms",
     "status": "up",
-    "uptime": "68.96%",
-    "uptimeDay": "68.96%",
-    "uptimeWeek": "68.96%",
-    "uptimeMonth": "68.96%",
-    "uptimeYear": "68.96%",
+    "uptime": "70.31%",
+    "uptimeDay": "70.31%",
+    "uptimeWeek": "70.31%",
+    "uptimeMonth": "70.31%",
+    "uptimeYear": "70.31%",
     "time": 162,
     "timeDay": 162,
     "timeWeek": 162,
@@ -25,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "32.33%",
-    "uptimeDay": "32.33%",
-    "uptimeWeek": "32.33%",
-    "uptimeMonth": "32.33%",
-    "uptimeYear": "32.33%",
+    "uptime": "34.64%",
+    "uptimeDay": "34.64%",
+    "uptimeWeek": "34.64%",
+    "uptimeMonth": "34.64%",
+    "uptimeYear": "34.64%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-05-10": 285
+      "2024-05-10": 287
     }
   },
   {
@@ -164,7 +164,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 258
+      "2024-05-10": 278
     }
   },
   {
@@ -191,18 +191,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-10",
     "status": "down",
-    "uptime": "0.49%",
-    "uptimeDay": "0.49%",
-    "uptimeWeek": "0.49%",
-    "uptimeMonth": "0.49%",
-    "uptimeYear": "0.49%",
+    "uptime": "0.45%",
+    "uptimeDay": "0.45%",
+    "uptimeWeek": "0.45%",
+    "uptimeMonth": "0.45%",
+    "uptimeYear": "0.45%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-10": 257
+      "2024-05-10": 276
     }
   },
   {
@@ -229,18 +229,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "32.32%",
-    "uptimeDay": "32.32%",
-    "uptimeWeek": "32.32%",
-    "uptimeMonth": "32.32%",
-    "uptimeYear": "32.32%",
+    "uptime": "34.63%",
+    "uptimeDay": "34.63%",
+    "uptimeWeek": "34.63%",
+    "uptimeMonth": "34.63%",
+    "uptimeYear": "34.63%",
     "time": 92,
     "timeDay": 92,
     "timeWeek": 92,
     "timeMonth": 92,
     "timeYear": 92,
     "dailyMinutesDown": {
-      "2024-05-10": 285
+      "2024-05-10": 287
     }
   },
   {
