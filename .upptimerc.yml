@@ -9,7 +9,59 @@ sites:
     check: "tcp-ping"
   - name: 备用KMS激活服务器 01
     url: s01.ikms.eu.org
-    port: 443
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 02
+    url: s02.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 03
+    url: s03.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 04
+    url: s04.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 05
+    url: s05.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 06
+    url: s06.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 07
+    url: s07.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 08
+    url: s08.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 09
+    url: s09.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 10
+    url: s10.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 11
+    url: s01.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 01
+    url: s11.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 12
+    url: s12.ikms.eu.org
+    port: 80
+    check: "tcp-ping"
+  - name: 备用KMS激活服务器 13
+    url: s13.ikms.eu.org
+    port: 80
     check: "tcp-ping"
 
 status-website:
