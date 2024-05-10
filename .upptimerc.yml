@@ -37,7 +37,7 @@ sites:
     check: "tcp-ping"
   - name: 备用KMS激活服务器 08
     url: s08.ikms.eu.org
-    port: 80
+    port: 6868
     check: "tcp-ping"
   - name: 备用KMS激活服务器 09
     url: s09.ikms.eu.org
