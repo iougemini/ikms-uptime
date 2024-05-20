@@ -26,8 +26,8 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "85.65%",
-    "uptimeDay": "47.48%",
-    "uptimeWeek": "78.11%",
+    "uptimeDay": "47.40%",
+    "uptimeWeek": "78.10%",
     "uptimeMonth": "85.65%",
     "uptimeYear": "85.65%",
     "time": 182,
@@ -36,7 +36,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-05-20": 748,
+      "2024-05-20": 749,
       "2024-05-19": 658,
       "2024-05-18": 632,
       "2024-05-17": 169
@@ -233,8 +233,8 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "85.65%",
-    "uptimeDay": "47.47%",
-    "uptimeWeek": "78.11%",
+    "uptimeDay": "47.39%",
+    "uptimeWeek": "78.10%",
     "uptimeMonth": "85.65%",
     "uptimeYear": "85.65%",
     "time": 182,
@@ -243,7 +243,7 @@
     "timeMonth": 182,
     "timeYear": 182,
     "dailyMinutesDown": {
-      "2024-05-20": 748,
+      "2024-05-20": 749,
       "2024-05-19": 658,
       "2024-05-18": 632,
       "2024-05-17": 169
