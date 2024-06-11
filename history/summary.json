@@ -26,20 +26,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "94.97%",
-    "uptimeDay": "47.86%",
-    "uptimeWeek": "76.86%",
+    "uptimeDay": "47.90%",
+    "uptimeWeek": "76.84%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "94.97%",
     "time": 171,
-    "timeDay": 160,
+    "timeDay": 159,
     "timeWeek": 181,
     "timeMonth": 172,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-06-11": 466,
+      "2024-06-11": 485,
       "2024-06-10": 762,
       "2024-06-09": 706,
-      "2024-06-08": 400
+      "2024-06-08": 383
     }
   },
   {
@@ -233,20 +233,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "94.97%",
-    "uptimeDay": "47.84%",
-    "uptimeWeek": "76.85%",
+    "uptimeDay": "47.87%",
+    "uptimeWeek": "76.84%",
     "uptimeMonth": "94.67%",
     "uptimeYear": "94.97%",
     "time": 171,
-    "timeDay": 160,
+    "timeDay": 159,
     "timeWeek": 181,
     "timeMonth": 172,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-06-11": 466,
+      "2024-06-11": 486,
       "2024-06-10": 762,
       "2024-06-09": 706,
-      "2024-06-08": 400
+      "2024-06-08": 383
     }
   },
   {
