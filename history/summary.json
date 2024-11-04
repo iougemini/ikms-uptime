@@ -156,18 +156,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "down",
-    "uptime": "96.69%",
+    "uptime": "96.34%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "19.39%",
-    "uptimeMonth": "81.45%",
-    "uptimeYear": "96.69%",
+    "uptimeWeek": "10.32%",
+    "uptimeMonth": "79.36%",
+    "uptimeYear": "96.34%",
     "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-11-04": 64,
+      "2024-11-04": 979,
       "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
@@ -261,10 +261,10 @@
     "url": "s12.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-12",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
@@ -272,7 +272,9 @@
     "timeWeek": 158,
     "timeMonth": 158,
     "timeYear": 183,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-04": 1
+    }
   },
   {
     "name": "备用KMS激活服务器 13",
