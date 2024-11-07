@@ -139,9 +139,9 @@
     "slug": "kms-07",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "95.24%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.84%",
+    "uptimeDay": "94.24%",
+    "uptimeWeek": "99.18%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "99.97%",
     "time": 236,
     "timeDay": 188,
@@ -149,7 +149,7 @@
     "timeMonth": 206,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2024-11-07": 69
+      "2024-11-07": 83
     }
   },
   {
@@ -161,7 +161,7 @@
     "uptime": "94.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "69.72%",
+    "uptimeMonth": "69.69%",
     "uptimeYear": "94.78%",
     "time": 229,
     "timeDay": 0,
@@ -169,7 +169,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-11-07": 883,
+      "2024-11-07": 897,
       "2024-11-06": 1440,
       "2024-11-05": 1440,
       "2024-11-04": 1440,
@@ -266,11 +266,11 @@
     "url": "s12.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-12",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "91.12%",
-    "uptimeWeek": "95.59%",
-    "uptimeMonth": "98.98%",
+    "uptimeDay": "92.07%",
+    "uptimeWeek": "95.72%",
+    "uptimeMonth": "99.02%",
     "uptimeYear": "99.83%",
     "time": 160,
     "timeDay": 125,
@@ -278,7 +278,7 @@
     "timeMonth": 131,
     "timeYear": 160,
     "dailyMinutesDown": {
-      "2024-11-07": 106,
+      "2024-11-07": 93,
       "2024-11-06": 67,
       "2024-11-05": 183,
       "2024-11-04": 89
