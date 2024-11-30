@@ -173,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-11-30": 825,
+      "2024-11-30": 839,
       "2024-11-29": 1440,
       "2024-11-28": 1440,
       "2024-11-27": 1440,
@@ -293,19 +293,19 @@
     "url": "s12.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-12",
-    "status": "up",
+    "status": "down",
     "uptime": "98.67%",
-    "uptimeDay": "53.22%",
+    "uptimeDay": "53.89%",
     "uptimeWeek": "71.33%",
-    "uptimeMonth": "91.06%",
+    "uptimeMonth": "91.10%",
     "uptimeYear": "98.67%",
     "time": 129,
-    "timeDay": 115,
+    "timeDay": 116,
     "timeWeek": 119,
     "timeMonth": 121,
     "timeYear": 129,
     "dailyMinutesDown": {
-      "2024-11-30": 419,
+      "2024-11-30": 420,
       "2024-11-29": 621,
       "2024-11-28": 608,
       "2024-11-27": 627,
@@ -317,7 +317,7 @@
       "2024-11-21": 189,
       "2024-11-20": 109,
       "2024-11-19": 264,
-      "2024-11-18": 64
+      "2024-11-18": 47
     }
   },
   {
