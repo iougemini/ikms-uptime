@@ -26,20 +26,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "79.97%",
-    "uptimeWeek": "97.14%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "79.09%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.23%",
     "time": 171,
-    "timeDay": 174,
-    "timeWeek": 192,
-    "timeMonth": 182,
+    "timeDay": 193,
+    "timeWeek": 201,
+    "timeMonth": 188,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-09": 288,
+      "2024-12-09": 301,
       "2024-06-12": 702,
       "2024-06-11": 809,
-      "2024-06-10": 573
+      "2024-06-10": 546
     }
   },
   {
@@ -126,9 +126,9 @@
     "slug": "kms-06",
     "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "85.74%",
-    "uptimeWeek": "97.96%",
-    "uptimeMonth": "99.53%",
+    "uptimeDay": "84.77%",
+    "uptimeWeek": "97.82%",
+    "uptimeMonth": "99.50%",
     "uptimeYear": "99.93%",
     "time": 173,
     "timeDay": 50,
@@ -136,7 +136,7 @@
     "timeMonth": 134,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2024-12-09": 205
+      "2024-12-09": 219
     }
   },
   {
@@ -177,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-09": 1236,
+      "2024-12-09": 1250,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -287,20 +287,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.23%",
-    "uptimeDay": "79.93%",
-    "uptimeWeek": "97.13%",
-    "uptimeMonth": "99.34%",
+    "uptimeDay": "79.06%",
+    "uptimeWeek": "97.01%",
+    "uptimeMonth": "99.31%",
     "uptimeYear": "99.23%",
     "time": 171,
-    "timeDay": 174,
-    "timeWeek": 192,
-    "timeMonth": 182,
+    "timeDay": 193,
+    "timeWeek": 201,
+    "timeMonth": 188,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-09": 289,
+      "2024-12-09": 301,
       "2024-06-12": 702,
       "2024-06-11": 809,
-      "2024-06-10": 573
+      "2024-06-10": 546
     }
   },
   {
@@ -311,7 +311,7 @@
     "status": "up",
     "uptime": "98.35%",
     "uptimeDay": "66.16%",
-    "uptimeWeek": "60.82%",
+    "uptimeWeek": "60.86%",
     "uptimeMonth": "88.39%",
     "uptimeYear": "98.35%",
     "time": 126,
