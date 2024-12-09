@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.21%",
     "time": 171,
     "timeDay": 187,
@@ -36,11 +36,11 @@
     "timeMonth": 180,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-09": 39,
+      "2024-12-09": 28,
       "2024-06-12": 702,
       "2024-06-11": 809,
       "2024-06-10": 762,
-      "2024-06-09": 102
+      "2024-06-09": 121
     }
   },
   {
@@ -107,9 +107,9 @@
     "slug": "kms-05",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "94.71%",
+    "uptimeWeek": "99.24%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.98%",
     "time": 199,
     "timeDay": 75,
@@ -117,7 +117,7 @@
     "timeMonth": 183,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2024-12-09": 46
+      "2024-12-09": 76
     }
   },
   {
@@ -125,18 +125,20 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.79%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 190,
     "timeDay": 189,
     "timeWeek": 171,
     "timeMonth": 166,
     "timeYear": 190,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-12-09": 3
+    }
   },
   {
     "name": "备用KMS激活服务器 07",
@@ -165,18 +167,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "down",
-    "uptime": "80.68%",
+    "uptime": "80.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "80.68%",
+    "uptimeYear": "80.67%",
     "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-09": 421,
+      "2024-12-09": 451,
       "2024-12-08": 1440,
       "2024-12-07": 1440,
       "2024-12-06": 1440,
@@ -265,18 +267,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "97.78%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
-    "uptimeYear": "99.99%",
+    "uptime": "99.98%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.98%",
     "time": 146,
     "timeDay": 48,
     "timeWeek": 151,
     "timeMonth": 162,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2024-12-09": 32
+      "2024-12-09": 62
     }
   },
   {
@@ -286,9 +288,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.21%",
-    "uptimeDay": "97.23%",
-    "uptimeWeek": "99.60%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "98.02%",
+    "uptimeWeek": "99.72%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.21%",
     "time": 171,
     "timeDay": 187,
@@ -296,11 +298,11 @@
     "timeMonth": 180,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-09": 39,
+      "2024-12-09": 28,
       "2024-06-12": 702,
       "2024-06-11": 809,
       "2024-06-10": 762,
-      "2024-06-09": 102
+      "2024-06-09": 121
     }
   },
   {
@@ -309,18 +311,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-12",
     "status": "down",
-    "uptime": "98.36%",
-    "uptimeDay": "52.31%",
-    "uptimeWeek": "58.74%",
-    "uptimeMonth": "88.49%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.35%",
+    "uptimeDay": "50.25%",
+    "uptimeWeek": "58.45%",
+    "uptimeMonth": "88.42%",
+    "uptimeYear": "98.35%",
     "time": 126,
     "timeDay": 115,
     "timeWeek": 117,
     "timeMonth": 119,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2024-12-09": 249,
+      "2024-12-09": 279,
       "2024-12-08": 679,
       "2024-12-07": 746,
       "2024-12-06": 409,
