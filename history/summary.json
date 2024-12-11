@@ -26,21 +26,21 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "58.75%",
-    "uptimeWeek": "85.29%",
-    "uptimeMonth": "96.62%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "99.15%",
     "time": 171,
-    "timeDay": 174,
+    "timeDay": 178,
     "timeWeek": 192,
     "timeMonth": 185,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-11": 595,
+      "2024-12-11": 583,
       "2024-12-10": 526,
       "2024-12-09": 364,
       "2024-06-12": 702,
-      "2024-06-11": 451
+      "2024-06-11": 472
     }
   },
   {
@@ -180,7 +180,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-11": 1249,
+      "2024-12-11": 1263,
       "2024-12-10": 1440,
       "2024-12-09": 1440,
       "2024-12-08": 1440,
@@ -270,19 +270,19 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
-    "uptime": "99.37%",
-    "uptimeDay": "47.67%",
-    "uptimeWeek": "80.68%",
-    "uptimeMonth": "95.56%",
-    "uptimeYear": "99.37%",
+    "status": "down",
+    "uptime": "99.38%",
+    "uptimeDay": "48.56%",
+    "uptimeWeek": "80.81%",
+    "uptimeMonth": "95.58%",
+    "uptimeYear": "99.38%",
     "time": 106,
     "timeDay": 38,
     "timeWeek": 55,
     "timeMonth": 83,
     "timeYear": 106,
     "dailyMinutesDown": {
-      "2024-12-11": 665,
+      "2024-12-11": 652,
       "2024-12-10": 830,
       "2024-12-09": 451
     }
@@ -294,21 +294,21 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "58.75%",
-    "uptimeWeek": "85.29%",
-    "uptimeMonth": "96.62%",
+    "uptimeDay": "59.57%",
+    "uptimeWeek": "85.41%",
+    "uptimeMonth": "96.64%",
     "uptimeYear": "99.15%",
     "time": 171,
-    "timeDay": 174,
+    "timeDay": 178,
     "timeWeek": 192,
     "timeMonth": 185,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2024-12-11": 595,
+      "2024-12-11": 583,
       "2024-12-10": 526,
       "2024-12-09": 364,
       "2024-06-12": 702,
-      "2024-06-11": 451
+      "2024-06-11": 472
     }
   },
   {
