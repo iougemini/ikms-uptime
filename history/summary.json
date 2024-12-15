@@ -24,15 +24,15 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "69.44%",
-    "uptimeWeek": "72.60%",
-    "uptimeMonth": "93.69%",
+    "uptimeDay": "69.83%",
+    "uptimeWeek": "72.87%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.13%",
     "time": 171,
     "timeDay": 94,
-    "timeWeek": 170,
+    "timeWeek": 169,
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -41,7 +41,7 @@
       "2024-12-13": 426,
       "2024-12-12": 607,
       "2024-12-11": 642,
-      "2024-12-10": 236
+      "2024-12-10": 208
     }
   },
   {
@@ -89,7 +89,7 @@
     "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.82%",
+    "uptimeMonth": "97.84%",
     "uptimeYear": "99.41%",
     "time": 216,
     "timeDay": 224,
@@ -128,7 +128,7 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "64.48%",
+    "uptimeDay": "65.37%",
     "uptimeWeek": "60.99%",
     "uptimeMonth": "91.02%",
     "uptimeYear": "98.75%",
@@ -185,7 +185,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2024-12-15": 1010,
+      "2024-12-15": 1022,
       "2024-12-14": 1440,
       "2024-12-13": 1440,
       "2024-12-12": 1440,
@@ -281,9 +281,9 @@
     "slug": "kms-11",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "57.62%",
-    "uptimeWeek": "56.17%",
-    "uptimeMonth": "89.91%",
+    "uptimeDay": "57.15%",
+    "uptimeWeek": "56.04%",
+    "uptimeMonth": "89.88%",
     "uptimeYear": "98.60%",
     "time": 83,
     "timeDay": 34,
@@ -291,7 +291,7 @@
     "timeMonth": 59,
     "timeYear": 83,
     "dailyMinutesDown": {
-      "2024-12-15": 408,
+      "2024-12-15": 421,
       "2024-12-14": 691,
       "2024-12-13": 767,
       "2024-12-12": 520,
@@ -305,15 +305,15 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.13%",
-    "uptimeDay": "69.44%",
-    "uptimeWeek": "72.60%",
-    "uptimeMonth": "93.69%",
+    "uptimeDay": "69.83%",
+    "uptimeWeek": "72.87%",
+    "uptimeMonth": "93.76%",
     "uptimeYear": "99.13%",
     "time": 171,
     "timeDay": 94,
-    "timeWeek": 170,
+    "timeWeek": 169,
     "timeMonth": 171,
     "timeYear": 171,
     "dailyMinutesDown": {
@@ -322,7 +322,7 @@
       "2024-12-13": 426,
       "2024-12-12": 607,
       "2024-12-11": 642,
-      "2024-12-10": 236
+      "2024-12-10": 208
     }
   },
   {
