@@ -1,7 +1,7 @@
-url: s11.ikms.eu.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-16T07:54:54.479Z
+url: s01.ikms.eu.org
+status: up
+code: 200
+responseTime: 36
+lastUpdated: 2024-12-16T08:27:22.234Z
 startTime: 2024-05-10T07:06:04.129Z
 generator: Upptime <https://github.com/upptime/upptime>
