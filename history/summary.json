@@ -27,8 +27,8 @@
     "status": "down",
     "uptime": "99.19%",
     "uptimeDay": "54.44%",
-    "uptimeWeek": "71.81%",
-    "uptimeMonth": "93.51%",
+    "uptimeWeek": "71.75%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.19%",
     "time": 166,
     "timeDay": 149,
@@ -36,13 +36,13 @@
     "timeMonth": 154,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-01-08": 513,
+      "2025-01-08": 542,
       "2025-01-07": 488,
       "2025-01-06": 507,
       "2025-01-05": 325,
       "2025-01-04": 342,
       "2025-01-03": 459,
-      "2025-01-02": 203
+      "2025-01-02": 180
     }
   },
   {
@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "down",
-    "uptime": "70.58%",
+    "uptime": "70.57%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "70.58%",
+    "uptimeYear": "70.57%",
     "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-01-08": 1074,
+      "2025-01-08": 1105,
       "2025-01-07": 1440,
       "2025-01-06": 1440,
       "2025-01-05": 1440,
@@ -311,8 +311,8 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "98.45%",
-    "uptimeDay": "46.25%",
-    "uptimeWeek": "51.43%",
+    "uptimeDay": "48.34%",
+    "uptimeWeek": "51.49%",
     "uptimeMonth": "87.64%",
     "uptimeYear": "98.45%",
     "time": 54,
@@ -338,9 +338,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.19%",
-    "uptimeDay": "54.39%",
-    "uptimeWeek": "71.80%",
-    "uptimeMonth": "93.51%",
+    "uptimeDay": "54.44%",
+    "uptimeWeek": "71.75%",
+    "uptimeMonth": "93.50%",
     "uptimeYear": "99.19%",
     "time": 166,
     "timeDay": 149,
@@ -348,13 +348,13 @@
     "timeMonth": 154,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-01-08": 514,
+      "2025-01-08": 543,
       "2025-01-07": 488,
       "2025-01-06": 507,
       "2025-01-05": 325,
       "2025-01-04": 342,
       "2025-01-03": 459,
-      "2025-01-02": 203
+      "2025-01-02": 180
     }
   },
   {
@@ -371,7 +371,7 @@
     "time": 131,
     "timeDay": 0,
     "timeWeek": 228,
-    "timeMonth": 194,
+    "timeMonth": 197,
     "timeYear": 131,
     "dailyMinutesDown": {
       "2024-12-09": 377,
