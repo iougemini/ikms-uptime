@@ -26,22 +26,22 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "59.80%",
-    "uptimeWeek": "72.21%",
+    "uptimeDay": "59.21%",
+    "uptimeWeek": "72.22%",
     "uptimeMonth": "93.61%",
     "uptimeYear": "99.22%",
     "time": 165,
-    "timeDay": 93,
+    "timeDay": 89,
     "timeWeek": 139,
     "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-01-14": 356,
+      "2025-01-14": 372,
       "2025-01-13": 528,
       "2025-01-12": 477,
       "2025-01-11": 620,
       "2025-01-10": 494,
-      "2025-01-09": 328
+      "2025-01-09": 312
     }
   },
   {
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-01-14": 861,
+      "2025-01-14": 879,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -313,27 +313,26 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
-    "uptime": "98.45%",
-    "uptimeDay": "58.45%",
-    "uptimeWeek": "49.18%",
-    "uptimeMonth": "87.30%",
-    "uptimeYear": "98.45%",
+    "status": "down",
+    "uptime": "98.46%",
+    "uptimeDay": "59.61%",
+    "uptimeWeek": "49.34%",
+    "uptimeMonth": "87.37%",
+    "uptimeYear": "98.46%",
     "time": 53,
     "timeDay": 53,
     "timeWeek": 44,
     "timeMonth": 42,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-01-14": 367,
+      "2025-01-14": 368,
       "2025-01-13": 694,
       "2025-01-12": 738,
       "2025-01-11": 852,
       "2025-01-10": 780,
       "2025-01-09": 657,
       "2025-01-08": 793,
-      "2025-01-07": 655,
-      "2025-01-06": 31
+      "2025-01-07": 655
     }
   },
   {
@@ -343,22 +342,22 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "59.80%",
+    "uptimeDay": "59.15%",
     "uptimeWeek": "72.21%",
-    "uptimeMonth": "93.60%",
+    "uptimeMonth": "93.61%",
     "uptimeYear": "99.22%",
     "time": 165,
-    "timeDay": 93,
+    "timeDay": 89,
     "timeWeek": 139,
     "timeMonth": 146,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-01-14": 357,
+      "2025-01-14": 373,
       "2025-01-13": 528,
       "2025-01-12": 477,
       "2025-01-11": 620,
       "2025-01-10": 494,
-      "2025-01-09": 328
+      "2025-01-09": 312
     }
   },
   {
