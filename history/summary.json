@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "60.48%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "60.59%",
+    "uptimeWeek": "72.34%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.22%",
     "time": 164,
     "timeDay": 103,
@@ -41,7 +41,7 @@
       "2025-01-12": 477,
       "2025-01-11": 620,
       "2025-01-10": 494,
-      "2025-01-09": 239
+      "2025-01-09": 214
     }
   },
   {
@@ -131,7 +131,7 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.66%",
-    "uptimeDay": "41.06%",
+    "uptimeDay": "41.99%",
     "uptimeWeek": "52.24%",
     "uptimeMonth": "89.01%",
     "uptimeYear": "98.66%",
@@ -189,7 +189,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-01-14": 1121,
+      "2025-01-14": 1134,
       "2025-01-13": 1440,
       "2025-01-12": 1440,
       "2025-01-11": 1440,
@@ -316,12 +316,12 @@
     "status": "up",
     "uptime": "98.46%",
     "uptimeDay": "58.87%",
-    "uptimeWeek": "50.40%",
+    "uptimeWeek": "50.46%",
     "uptimeMonth": "87.42%",
     "uptimeYear": "98.46%",
     "time": 53,
     "timeDay": 53,
-    "timeWeek": 44,
+    "timeWeek": 45,
     "timeMonth": 42,
     "timeYear": 53,
     "dailyMinutesDown": {
@@ -340,11 +340,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "60.48%",
-    "uptimeWeek": "72.09%",
-    "uptimeMonth": "93.58%",
+    "uptimeDay": "60.59%",
+    "uptimeWeek": "72.33%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.22%",
     "time": 164,
     "timeDay": 103,
@@ -352,12 +352,12 @@
     "timeMonth": 146,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-01-14": 459,
+      "2025-01-14": 460,
       "2025-01-13": 528,
       "2025-01-12": 477,
       "2025-01-11": 620,
       "2025-01-10": 494,
-      "2025-01-09": 239
+      "2025-01-09": 214
     }
   },
   {
