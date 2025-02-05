@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "71.66%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "71.65%",
+    "uptimeWeek": "74.14%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.33%",
     "time": 165,
     "timeDay": 192,
@@ -42,7 +42,7 @@
       "2025-02-02": 597,
       "2025-02-01": 484,
       "2025-01-31": 395,
-      "2025-01-30": 41
+      "2025-01-30": 23
     }
   },
   {
@@ -132,9 +132,9 @@
     "slug": "kms-06",
     "status": "down",
     "uptime": "98.73%",
-    "uptimeDay": "63.31%",
-    "uptimeWeek": "51.07%",
-    "uptimeMonth": "88.68%",
+    "uptimeDay": "62.42%",
+    "uptimeWeek": "51.01%",
+    "uptimeMonth": "88.65%",
     "uptimeYear": "98.73%",
     "time": 55,
     "timeDay": 39,
@@ -142,7 +142,7 @@
     "timeMonth": 51,
     "timeYear": 55,
     "dailyMinutesDown": {
-      "2025-02-05": 209,
+      "2025-02-05": 222,
       "2025-02-04": 706,
       "2025-02-03": 769,
       "2025-02-02": 725,
@@ -190,7 +190,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-05": 573,
+      "2025-02-05": 586,
       "2025-02-04": 1440,
       "2025-02-03": 1440,
       "2025-02-02": 1440,
@@ -338,8 +338,8 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "63.71%",
-    "uptimeWeek": "56.85%",
+    "uptimeDay": "64.60%",
+    "uptimeWeek": "56.90%",
     "uptimeMonth": "88.63%",
     "uptimeYear": "98.72%",
     "time": 54,
@@ -364,11 +364,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "71.66%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "94.01%",
+    "uptimeDay": "71.60%",
+    "uptimeWeek": "74.13%",
+    "uptimeMonth": "94.05%",
     "uptimeYear": "99.33%",
     "time": 165,
     "timeDay": 192,
@@ -376,13 +376,13 @@
     "timeMonth": 162,
     "timeYear": 165,
     "dailyMinutesDown": {
-      "2025-02-05": 117,
+      "2025-02-05": 118,
       "2025-02-04": 353,
       "2025-02-03": 637,
       "2025-02-02": 597,
       "2025-02-01": 484,
       "2025-01-31": 395,
-      "2025-01-30": 41
+      "2025-01-30": 23
     }
   },
   {
