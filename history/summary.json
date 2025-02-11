@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "69.04%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "69.03%",
+    "uptimeWeek": "72.35%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.30%",
     "time": 166,
     "timeDay": 158,
@@ -42,7 +42,7 @@
       "2025-02-08": 433,
       "2025-02-07": 516,
       "2025-02-06": 413,
-      "2025-02-05": 213
+      "2025-02-05": 196
     }
   },
   {
@@ -134,8 +134,8 @@
     "status": "down",
     "uptime": "98.69%",
     "uptimeDay": "52.73%",
-    "uptimeWeek": "52.54%",
-    "uptimeMonth": "88.06%",
+    "uptimeWeek": "52.40%",
+    "uptimeMonth": "88.03%",
     "uptimeYear": "98.69%",
     "time": 54,
     "timeDay": 45,
@@ -143,7 +143,7 @@
     "timeMonth": 50,
     "timeYear": 54,
     "dailyMinutesDown": {
-      "2025-02-11": 420,
+      "2025-02-11": 435,
       "2025-02-10": 712,
       "2025-02-09": 842,
       "2025-02-08": 454,
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-11": 682,
+      "2025-02-11": 697,
       "2025-02-10": 1440,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
@@ -371,11 +371,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "69.04%",
-    "uptimeWeek": "72.19%",
-    "uptimeMonth": "93.60%",
+    "uptimeDay": "68.97%",
+    "uptimeWeek": "72.35%",
+    "uptimeMonth": "93.64%",
     "uptimeYear": "99.30%",
     "time": 166,
     "timeDay": 158,
@@ -383,13 +383,13 @@
     "timeMonth": 168,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-02-11": 168,
+      "2025-02-11": 169,
       "2025-02-10": 596,
       "2025-02-09": 462,
       "2025-02-08": 433,
       "2025-02-07": 516,
       "2025-02-06": 413,
-      "2025-02-05": 213
+      "2025-02-05": 196
     }
   },
   {
