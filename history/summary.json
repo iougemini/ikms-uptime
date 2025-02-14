@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "64.77%",
-    "uptimeWeek": "72.24%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "63.54%",
+    "uptimeWeek": "72.33%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.31%",
     "time": 167,
     "timeDay": 193,
@@ -36,12 +36,12 @@
     "timeMonth": 178,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-02-14": 473,
+      "2025-02-14": 490,
       "2025-02-13": 401,
       "2025-02-12": 591,
       "2025-02-11": 393,
       "2025-02-10": 596,
-      "2025-02-09": 341
+      "2025-02-09": 315
     }
   },
   {
@@ -134,8 +134,8 @@
     "status": "down",
     "uptime": "98.73%",
     "uptimeDay": "54.47%",
-    "uptimeWeek": "52.40%",
-    "uptimeMonth": "88.31%",
+    "uptimeWeek": "52.23%",
+    "uptimeMonth": "88.27%",
     "uptimeYear": "98.73%",
     "time": 53,
     "timeDay": 35,
@@ -143,7 +143,7 @@
     "timeMonth": 49,
     "timeYear": 53,
     "dailyMinutesDown": {
-      "2025-02-14": 627,
+      "2025-02-14": 646,
       "2025-02-13": 769,
       "2025-02-12": 618,
       "2025-02-11": 753,
@@ -191,7 +191,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-14": 1313,
+      "2025-02-14": 1333,
       "2025-02-13": 1440,
       "2025-02-12": 1440,
       "2025-02-11": 1440,
@@ -346,26 +346,26 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "48.41%",
-    "uptimeWeek": "49.40%",
-    "uptimeMonth": "87.75%",
-    "uptimeYear": "98.67%",
+    "status": "down",
+    "uptime": "98.68%",
+    "uptimeDay": "48.33%",
+    "uptimeWeek": "49.58%",
+    "uptimeMonth": "87.87%",
+    "uptimeYear": "98.68%",
     "time": 52,
     "timeDay": 38,
     "timeWeek": 40,
     "timeMonth": 51,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2025-02-14": 670,
+      "2025-02-14": 671,
       "2025-02-13": 746,
       "2025-02-12": 743,
       "2025-02-11": 639,
       "2025-02-10": 844,
       "2025-02-09": 590,
       "2025-02-08": 783,
-      "2025-02-07": 355
+      "2025-02-07": 302
     }
   },
   {
@@ -375,9 +375,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "64.70%",
-    "uptimeWeek": "72.23%",
-    "uptimeMonth": "93.61%",
+    "uptimeDay": "63.47%",
+    "uptimeWeek": "72.32%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.31%",
     "time": 167,
     "timeDay": 193,
@@ -385,12 +385,12 @@
     "timeMonth": 178,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-02-14": 474,
+      "2025-02-14": 491,
       "2025-02-13": 401,
       "2025-02-12": 591,
       "2025-02-11": 393,
       "2025-02-10": 596,
-      "2025-02-09": 341
+      "2025-02-09": 315
     }
   },
   {
