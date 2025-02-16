@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "65.11%",
-    "uptimeWeek": "72.46%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "66.75%",
+    "uptimeWeek": "72.68%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.32%",
     "time": 167,
     "timeDay": 166,
@@ -42,7 +42,7 @@
       "2025-02-13": 401,
       "2025-02-12": 591,
       "2025-02-11": 393,
-      "2025-02-10": 224
+      "2025-02-10": 202
     }
   },
   {
@@ -135,8 +135,8 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.72%",
-    "uptimeDay": "68.18%",
-    "uptimeWeek": "52.41%",
+    "uptimeDay": "69.98%",
+    "uptimeWeek": "52.58%",
     "uptimeMonth": "88.14%",
     "uptimeYear": "98.72%",
     "time": 53,
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-16": 353,
+      "2025-02-16": 378,
       "2025-02-15": 1440,
       "2025-02-14": 1440,
       "2025-02-13": 1440,
@@ -354,8 +354,8 @@
     "status": "down",
     "uptime": "98.75%",
     "uptimeDay": "52.75%",
-    "uptimeWeek": "50.99%",
-    "uptimeMonth": "88.46%",
+    "uptimeWeek": "50.83%",
+    "uptimeMonth": "88.40%",
     "uptimeYear": "98.75%",
     "time": 52,
     "timeDay": 37,
@@ -363,7 +363,7 @@
     "timeMonth": 51,
     "timeYear": 52,
     "dailyMinutesDown": {
-      "2025-02-16": 216,
+      "2025-02-16": 242,
       "2025-02-15": 547,
       "2025-02-14": 733,
       "2025-02-13": 746,
@@ -378,11 +378,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "65.11%",
-    "uptimeWeek": "72.46%",
-    "uptimeMonth": "93.66%",
+    "uptimeDay": "66.75%",
+    "uptimeWeek": "72.67%",
+    "uptimeMonth": "93.71%",
     "uptimeYear": "99.32%",
     "time": 167,
     "timeDay": 166,
@@ -390,13 +390,13 @@
     "timeMonth": 179,
     "timeYear": 167,
     "dailyMinutesDown": {
-      "2025-02-16": 119,
+      "2025-02-16": 120,
       "2025-02-15": 510,
       "2025-02-14": 533,
       "2025-02-13": 401,
       "2025-02-12": 591,
       "2025-02-11": 393,
-      "2025-02-10": 224
+      "2025-02-10": 202
     }
   },
   {
