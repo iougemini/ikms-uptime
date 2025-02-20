@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "71.26%",
-    "uptimeWeek": "71.00%",
-    "uptimeMonth": "93.33%",
+    "uptimeDay": "69.96%",
+    "uptimeWeek": "71.06%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "99.29%",
     "time": 168,
     "timeDay": 206,
@@ -36,13 +36,13 @@
     "timeMonth": 183,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-02-20": 110,
+      "2025-02-20": 129,
       "2025-02-19": 542,
       "2025-02-18": 495,
       "2025-02-17": 586,
       "2025-02-16": 416,
       "2025-02-15": 510,
-      "2025-02-14": 260
+      "2025-02-14": 236
     }
   },
   {
@@ -135,8 +135,8 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.64%",
-    "uptimeDay": "46.97%",
-    "uptimeWeek": "50.81%",
+    "uptimeDay": "48.40%",
+    "uptimeWeek": "50.95%",
     "uptimeMonth": "87.19%",
     "uptimeYear": "98.64%",
     "time": 52,
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-02-20": 411,
+      "2025-02-20": 431,
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
@@ -358,8 +358,8 @@
     "status": "down",
     "uptime": "98.72%",
     "uptimeDay": "52.20%",
-    "uptimeWeek": "51.48%",
-    "uptimeMonth": "88.00%",
+    "uptimeWeek": "51.39%",
+    "uptimeMonth": "87.95%",
     "uptimeYear": "98.72%",
     "time": 51,
     "timeDay": 35,
@@ -367,7 +367,7 @@
     "timeMonth": 49,
     "timeYear": 51,
     "dailyMinutesDown": {
-      "2025-02-20": 200,
+      "2025-02-20": 220,
       "2025-02-19": 690,
       "2025-02-18": 727,
       "2025-02-17": 618,
@@ -385,9 +385,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "71.20%",
-    "uptimeWeek": "70.99%",
-    "uptimeMonth": "93.33%",
+    "uptimeDay": "69.90%",
+    "uptimeWeek": "71.05%",
+    "uptimeMonth": "93.34%",
     "uptimeYear": "99.29%",
     "time": 168,
     "timeDay": 206,
@@ -395,13 +395,13 @@
     "timeMonth": 183,
     "timeYear": 168,
     "dailyMinutesDown": {
-      "2025-02-20": 111,
+      "2025-02-20": 130,
       "2025-02-19": 542,
       "2025-02-18": 495,
       "2025-02-17": 586,
       "2025-02-16": 416,
       "2025-02-15": 510,
-      "2025-02-14": 260
+      "2025-02-14": 236
     }
   },
   {
