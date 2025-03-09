@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "71.92%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "78.42%",
+    "uptimeWeek": "71.71%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.35%",
     "time": 169,
     "timeDay": 152,
@@ -36,12 +36,12 @@
     "timeMonth": 187,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-03-09": 206,
+      "2025-03-09": 204,
       "2025-03-08": 502,
       "2025-03-07": 610,
       "2025-03-06": 498,
       "2025-03-05": 615,
-      "2025-03-04": 402
+      "2025-03-04": 424
     }
   },
   {
@@ -132,26 +132,26 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "98.86%",
-    "uptimeDay": "53.31%",
-    "uptimeWeek": "50.79%",
-    "uptimeMonth": "88.68%",
-    "uptimeYear": "98.86%",
+    "status": "down",
+    "uptime": "98.87%",
+    "uptimeDay": "53.98%",
+    "uptimeWeek": "51.13%",
+    "uptimeMonth": "88.75%",
+    "uptimeYear": "98.87%",
     "time": 50,
     "timeDay": 37,
     "timeWeek": 40,
     "timeMonth": 38,
     "timeYear": 50,
     "dailyMinutesDown": {
-      "2025-03-09": 556,
+      "2025-03-09": 558,
       "2025-03-08": 776,
       "2025-03-07": 731,
       "2025-03-06": 461,
       "2025-03-05": 806,
       "2025-03-04": 692,
       "2025-03-03": 795,
-      "2025-03-02": 147
+      "2025-03-02": 111
     }
   },
   {
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-09": 1057,
+      "2025-03-09": 1069,
       "2025-03-08": 1440,
       "2025-03-07": 1440,
       "2025-03-06": 1440,
@@ -399,9 +399,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.35%",
-    "uptimeDay": "78.31%",
-    "uptimeWeek": "71.92%",
-    "uptimeMonth": "93.54%",
+    "uptimeDay": "78.42%",
+    "uptimeWeek": "71.71%",
+    "uptimeMonth": "93.49%",
     "uptimeYear": "99.35%",
     "time": 169,
     "timeDay": 152,
@@ -409,12 +409,12 @@
     "timeMonth": 187,
     "timeYear": 169,
     "dailyMinutesDown": {
-      "2025-03-09": 206,
+      "2025-03-09": 204,
       "2025-03-08": 502,
       "2025-03-07": 610,
       "2025-03-06": 498,
       "2025-03-05": 615,
-      "2025-03-04": 402
+      "2025-03-04": 424
     }
   },
   {
