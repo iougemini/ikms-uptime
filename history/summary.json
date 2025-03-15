@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "67.29%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "67.72%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.34%",
     "time": 170,
     "timeDay": 141,
@@ -36,13 +36,13 @@
     "timeMonth": 182,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-15": 391,
+      "2025-03-15": 393,
       "2025-03-14": 578,
       "2025-03-13": 429,
       "2025-03-12": 384,
       "2025-03-11": 506,
       "2025-03-10": 575,
-      "2025-03-09": 90
+      "2025-03-09": 74
     }
   },
   {
@@ -135,7 +135,7 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.90%",
-    "uptimeDay": "51.44%",
+    "uptimeDay": "52.34%",
     "uptimeWeek": "51.50%",
     "uptimeMonth": "88.84%",
     "uptimeYear": "98.90%",
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-15": 932,
+      "2025-03-15": 945,
       "2025-03-14": 1440,
       "2025-03-13": 1440,
       "2025-03-12": 1440,
@@ -379,12 +379,12 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "98.86%",
-    "uptimeDay": "52.89%",
+    "uptimeDay": "53.48%",
     "uptimeWeek": "52.73%",
     "uptimeMonth": "88.39%",
     "uptimeYear": "98.86%",
     "time": 49,
-    "timeDay": 36,
+    "timeDay": 37,
     "timeWeek": 37,
     "timeMonth": 39,
     "timeYear": 49,
@@ -406,9 +406,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.34%",
-    "uptimeDay": "67.37%",
-    "uptimeWeek": "70.66%",
-    "uptimeMonth": "93.25%",
+    "uptimeDay": "67.72%",
+    "uptimeWeek": "70.81%",
+    "uptimeMonth": "93.28%",
     "uptimeYear": "99.34%",
     "time": 170,
     "timeDay": 141,
@@ -416,13 +416,13 @@
     "timeMonth": 182,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-15": 391,
+      "2025-03-15": 393,
       "2025-03-14": 578,
       "2025-03-13": 429,
       "2025-03-12": 384,
       "2025-03-11": 506,
       "2025-03-10": 575,
-      "2025-03-09": 90
+      "2025-03-09": 74
     }
   },
   {
