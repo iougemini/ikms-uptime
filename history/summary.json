@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "53.99%",
-    "uptimeWeek": "71.17%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "71.37%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.36%",
     "time": 170,
     "timeDay": 259,
@@ -41,7 +41,7 @@
       "2025-03-18": 468,
       "2025-03-17": 616,
       "2025-03-16": 607,
-      "2025-03-15": 226
+      "2025-03-15": 206
     }
   },
   {
@@ -160,11 +160,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-07",
     "status": "up",
-    "uptime": "99.74%",
+    "uptime": "99.75%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.75%",
     "time": 224,
     "timeDay": 190,
     "timeWeek": 231,
@@ -192,7 +192,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-20": 1070,
+      "2025-03-20": 1083,
       "2025-03-19": 1440,
       "2025-03-18": 1440,
       "2025-03-17": 1440,
@@ -383,7 +383,7 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "99.00%",
-    "uptimeDay": "48.98%",
+    "uptimeDay": "49.09%",
     "uptimeWeek": "56.76%",
     "uptimeMonth": "89.62%",
     "uptimeYear": "99.00%",
@@ -408,11 +408,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "53.99%",
-    "uptimeWeek": "71.17%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "54.10%",
+    "uptimeWeek": "71.35%",
+    "uptimeMonth": "93.41%",
     "uptimeYear": "99.36%",
     "time": 170,
     "timeDay": 259,
@@ -420,12 +420,12 @@
     "timeMonth": 179,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-20": 471,
+      "2025-03-20": 473,
       "2025-03-19": 515,
       "2025-03-18": 468,
       "2025-03-17": 616,
       "2025-03-16": 607,
-      "2025-03-15": 226
+      "2025-03-15": 206
     }
   },
   {
