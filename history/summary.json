@@ -31,18 +31,18 @@
     "uptimeMonth": "93.64%",
     "uptimeYear": "99.40%",
     "time": 170,
-    "timeDay": 421,
+    "timeDay": 380,
     "timeWeek": 191,
     "timeMonth": 184,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-26": 336,
+      "2025-03-26": 357,
       "2025-03-25": 530,
       "2025-03-24": 547,
       "2025-03-23": 402,
       "2025-03-22": 325,
       "2025-03-21": 583,
-      "2025-03-20": 58
+      "2025-03-20": 37
     }
   },
   {
@@ -133,19 +133,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "98.88%",
-    "uptimeDay": "67.00%",
-    "uptimeWeek": "55.69%",
-    "uptimeMonth": "88.24%",
-    "uptimeYear": "98.88%",
+    "status": "down",
+    "uptime": "98.89%",
+    "uptimeDay": "68.01%",
+    "uptimeWeek": "55.66%",
+    "uptimeMonth": "88.27%",
+    "uptimeYear": "98.89%",
     "time": 48,
     "timeDay": 38,
     "timeWeek": 40,
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-03-26": 433,
+      "2025-03-26": 435,
       "2025-03-25": 535,
       "2025-03-24": 469,
       "2025-03-23": 724,
@@ -153,7 +153,7 @@
       "2025-03-21": 577,
       "2025-03-20": 832,
       "2025-03-19": 726,
-      "2025-03-18": 109
+      "2025-03-18": 93
     }
   },
   {
@@ -194,7 +194,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-26": 1212,
+      "2025-03-26": 1235,
       "2025-03-25": 1440,
       "2025-03-24": 1440,
       "2025-03-23": 1440,
@@ -390,18 +390,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "98.92%",
-    "uptimeDay": "45.40%",
-    "uptimeWeek": "54.18%",
-    "uptimeMonth": "88.61%",
-    "uptimeYear": "98.92%",
+    "uptime": "98.91%",
+    "uptimeDay": "43.83%",
+    "uptimeWeek": "54.08%",
+    "uptimeMonth": "88.56%",
+    "uptimeYear": "98.91%",
     "time": 48,
     "timeDay": 44,
     "timeWeek": 38,
     "timeMonth": 39,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-03-26": 686,
+      "2025-03-26": 708,
       "2025-03-25": 597,
       "2025-03-24": 795,
       "2025-03-23": 645,
@@ -423,18 +423,18 @@
     "uptimeMonth": "93.63%",
     "uptimeYear": "99.40%",
     "time": 170,
-    "timeDay": 421,
+    "timeDay": 380,
     "timeWeek": 191,
     "timeMonth": 184,
     "timeYear": 170,
     "dailyMinutesDown": {
-      "2025-03-26": 338,
+      "2025-03-26": 358,
       "2025-03-25": 530,
       "2025-03-24": 547,
       "2025-03-23": 402,
       "2025-03-22": 325,
       "2025-03-21": 583,
-      "2025-03-20": 58
+      "2025-03-20": 37
     }
   },
   {
