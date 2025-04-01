@@ -26,9 +26,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "54.00%",
-    "uptimeWeek": "70.84%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "55.23%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "93.24%",
     "uptimeYear": "99.37%",
     "time": 171,
     "timeDay": 139,
@@ -36,12 +36,12 @@
     "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-03-31": 658,
+      "2025-03-31": 644,
       "2025-03-30": 603,
       "2025-03-29": 578,
       "2025-03-28": 365,
       "2025-03-27": 430,
-      "2025-03-26": 300
+      "2025-03-26": 337
     }
   },
   {
@@ -132,19 +132,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "down",
+    "status": "up",
     "uptime": "98.85%",
-    "uptimeDay": "35.63%",
-    "uptimeWeek": "54.98%",
-    "uptimeMonth": "87.72%",
+    "uptimeDay": "35.80%",
+    "uptimeWeek": "55.00%",
+    "uptimeMonth": "87.69%",
     "uptimeYear": "98.85%",
     "time": 48,
-    "timeDay": 67,
+    "timeDay": 68,
     "timeWeek": 44,
     "timeMonth": 40,
     "timeYear": 48,
     "dailyMinutesDown": {
-      "2025-03-31": 913,
+      "2025-03-31": 923,
       "2025-03-30": 500,
       "2025-03-29": 829,
       "2025-03-28": 626,
@@ -193,7 +193,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-03-31": 1427,
+      "2025-03-31": 1440,
       "2025-03-30": 1440,
       "2025-03-29": 1440,
       "2025-03-28": 1440,
@@ -421,9 +421,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.37%",
-    "uptimeDay": "54.00%",
-    "uptimeWeek": "70.84%",
-    "uptimeMonth": "93.29%",
+    "uptimeDay": "55.34%",
+    "uptimeWeek": "70.62%",
+    "uptimeMonth": "93.24%",
     "uptimeYear": "99.37%",
     "time": 171,
     "timeDay": 139,
@@ -431,12 +431,12 @@
     "timeMonth": 183,
     "timeYear": 171,
     "dailyMinutesDown": {
-      "2025-03-31": 658,
+      "2025-03-31": 644,
       "2025-03-30": 603,
       "2025-03-29": 578,
       "2025-03-28": 365,
       "2025-03-27": 430,
-      "2025-03-26": 300
+      "2025-03-26": 337
     }
   },
   {
