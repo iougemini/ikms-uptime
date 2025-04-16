@@ -24,11 +24,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "69.88%",
-    "uptimeWeek": "70.01%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "70.83%",
+    "uptimeWeek": "70.26%",
+    "uptimeMonth": "93.16%",
     "uptimeYear": "99.39%",
     "time": 172,
     "timeDay": 389,
@@ -41,7 +41,7 @@
       "2025-04-14": 729,
       "2025-04-13": 546,
       "2025-04-12": 454,
-      "2025-04-11": 283
+      "2025-04-11": 257
     }
   },
   {
@@ -70,7 +70,7 @@
     "status": "up",
     "uptime": "97.31%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "61.52%",
+    "uptimeWeek": "61.70%",
     "uptimeMonth": "72.29%",
     "uptimeYear": "97.31%",
     "time": 209,
@@ -144,8 +144,8 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "51.72%",
-    "uptimeWeek": "56.08%",
+    "uptimeDay": "52.83%",
+    "uptimeWeek": "56.13%",
     "uptimeMonth": "87.76%",
     "uptimeYear": "98.91%",
     "time": 50,
@@ -203,7 +203,7 @@
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2025-04-16": 1042,
+      "2025-04-16": 1060,
       "2025-04-15": 1440,
       "2025-04-14": 1440,
       "2025-04-13": 1440,
@@ -421,7 +421,7 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "99.03%",
-    "uptimeDay": "65.04%",
+    "uptimeDay": "66.30%",
     "uptimeWeek": "54.75%",
     "uptimeMonth": "89.08%",
     "uptimeYear": "99.03%",
@@ -446,11 +446,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.39%",
-    "uptimeDay": "69.88%",
-    "uptimeWeek": "70.01%",
-    "uptimeMonth": "93.10%",
+    "uptimeDay": "70.83%",
+    "uptimeWeek": "70.25%",
+    "uptimeMonth": "93.15%",
     "uptimeYear": "99.39%",
     "time": 172,
     "timeDay": 389,
@@ -458,12 +458,12 @@
     "timeMonth": 194,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2025-04-16": 315,
+      "2025-04-16": 316,
       "2025-04-15": 695,
       "2025-04-14": 729,
       "2025-04-13": 546,
       "2025-04-12": 454,
-      "2025-04-11": 283
+      "2025-04-11": 257
     }
   },
   {
