@@ -15,9 +15,7 @@
     "timeWeek": 153,
     "timeMonth": 174,
     "timeYear": 177,
-    "dailyMinutesDown": {
-      "2024-05-10": 131
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "备用KMS激活服务器 01",
@@ -26,7 +24,7 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "39.09%",
+    "uptimeDay": "43.92%",
     "uptimeWeek": "55.46%",
     "uptimeMonth": "89.75%",
     "uptimeYear": "99.15%",
@@ -70,7 +68,7 @@
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.05%",
+    "uptimeMonth": "92.21%",
     "uptimeYear": "97.48%",
     "time": 207,
     "timeDay": 154,
@@ -142,18 +140,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
     "status": "up",
-    "uptime": "97.63%",
-    "uptimeDay": "18.02%",
-    "uptimeWeek": "21.67%",
-    "uptimeMonth": "71.58%",
-    "uptimeYear": "97.63%",
+    "uptime": "97.62%",
+    "uptimeDay": "23.77%",
+    "uptimeWeek": "22.50%",
+    "uptimeMonth": "71.51%",
+    "uptimeYear": "97.62%",
     "time": 63,
     "timeDay": 29,
     "timeWeek": 25,
     "timeMonth": 135,
     "timeYear": 63,
     "dailyMinutesDown": {
-      "2025-05-09": 1179,
+      "2025-05-09": 1166,
       "2025-05-08": 1109,
       "2025-05-07": 1100,
       "2025-05-06": 1129,
@@ -164,7 +162,7 @@
       "2025-05-01": 725,
       "2025-04-30": 1203,
       "2025-04-29": 1059,
-      "2025-04-28": 417
+      "2025-04-28": 462
     }
   },
   {
@@ -194,17 +192,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "down",
-    "uptime": "47.11%",
+    "uptime": "47.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "47.11%",
+    "uptimeYear": "47.10%",
     "time": 229,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 229,
     "dailyMinutesDown": {
+      "2025-05-10": 70,
       "2025-05-09": 1440,
       "2025-05-08": 1440,
       "2025-05-07": 1440,
@@ -397,8 +396,7 @@
       "2024-11-01": 1440,
       "2024-10-31": 1440,
       "2024-10-30": 1440,
-      "2024-10-29": 861,
-      "2024-05-10": 350
+      "2024-10-29": 861
     }
   },
   {
@@ -437,9 +435,7 @@
     "timeWeek": 167,
     "timeMonth": 184,
     "timeYear": 213,
-    "dailyMinutesDown": {
-      "2024-05-10": 315
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "备用KMS激活服务器 11",
@@ -448,8 +444,8 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "97.42%",
-    "uptimeDay": "10.46%",
-    "uptimeWeek": "17.32%",
+    "uptimeDay": "15.32%",
+    "uptimeWeek": "18.01%",
     "uptimeMonth": "69.11%",
     "uptimeYear": "97.42%",
     "time": 64,
@@ -479,7 +475,7 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.15%",
-    "uptimeDay": "39.19%",
+    "uptimeDay": "44.05%",
     "uptimeWeek": "55.46%",
     "uptimeMonth": "89.75%",
     "uptimeYear": "99.15%",
