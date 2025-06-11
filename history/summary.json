@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "53.87%",
-    "uptimeWeek": "47.15%",
-    "uptimeMonth": "87.84%",
+    "uptimeDay": "54.07%",
+    "uptimeWeek": "47.42%",
+    "uptimeMonth": "87.90%",
     "uptimeYear": "98.99%",
     "time": 185,
     "timeDay": 228,
@@ -34,13 +34,13 @@
     "timeMonth": 209,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-06-11": 498,
+      "2025-06-11": 516,
       "2025-06-10": 530,
       "2025-06-09": 806,
       "2025-06-08": 581,
       "2025-06-07": 1249,
       "2025-06-06": 1161,
-      "2025-06-05": 505
+      "2025-06-05": 459
     }
   },
   {
@@ -144,7 +144,7 @@
     "status": "up",
     "uptime": "98.11%",
     "uptimeDay": "60.69%",
-    "uptimeWeek": "38.33%",
+    "uptimeWeek": "38.54%",
     "uptimeMonth": "75.32%",
     "uptimeYear": "97.94%",
     "time": 64,
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 140,
     "dailyMinutesDown": {
-      "2025-06-11": 870,
+      "2025-06-11": 892,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
       "2025-06-08": 1440,
@@ -478,8 +478,8 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "97.78%",
-    "uptimeDay": "51.09%",
-    "uptimeWeek": "33.94%",
+    "uptimeDay": "52.51%",
+    "uptimeWeek": "34.15%",
     "uptimeMonth": "71.05%",
     "uptimeYear": "97.59%",
     "time": 65,
@@ -510,9 +510,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.07%",
-    "uptimeDay": "53.87%",
-    "uptimeWeek": "47.13%",
-    "uptimeMonth": "87.83%",
+    "uptimeDay": "54.07%",
+    "uptimeWeek": "47.40%",
+    "uptimeMonth": "87.90%",
     "uptimeYear": "98.99%",
     "time": 185,
     "timeDay": 228,
@@ -520,13 +520,13 @@
     "timeMonth": 209,
     "timeYear": 185,
     "dailyMinutesDown": {
-      "2025-06-11": 500,
+      "2025-06-11": 518,
       "2025-06-10": 530,
       "2025-06-09": 806,
       "2025-06-08": 581,
       "2025-06-07": 1249,
       "2025-06-06": 1161,
-      "2025-06-05": 505
+      "2025-06-05": 459
     }
   },
   {
