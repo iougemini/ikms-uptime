@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-12": 58,
+      "2025-06-12": 74,
       "2025-06-11": 1440,
       "2025-06-10": 1440,
       "2025-06-09": 1440,
@@ -479,7 +479,7 @@
     "status": "up",
     "uptime": "97.90%",
     "uptimeDay": "45.50%",
-    "uptimeWeek": "36.07%",
+    "uptimeWeek": "36.23%",
     "uptimeMonth": "72.61%",
     "uptimeYear": "97.72%",
     "time": 65,
