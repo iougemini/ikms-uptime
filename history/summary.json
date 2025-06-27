@@ -22,11 +22,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "49.50%",
-    "uptimeWeek": "69.11%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "50.20%",
+    "uptimeWeek": "69.10%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 190,
     "timeDay": 258,
@@ -42,7 +42,7 @@
       "2025-06-22": 442,
       "2025-06-21": 328,
       "2025-06-20": 309,
-      "2025-06-19": 224
+      "2025-06-19": 205
     }
   },
   {
@@ -145,13 +145,13 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "71.48%",
+    "uptimeDay": "72.57%",
     "uptimeWeek": "67.43%",
     "uptimeMonth": "89.88%",
     "uptimeYear": "99.16%",
     "time": 77,
     "timeDay": 233,
-    "timeWeek": 256,
+    "timeWeek": 255,
     "timeMonth": 191,
     "timeYear": 75,
     "dailyMinutesDown": {
@@ -205,7 +205,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-27": 891,
+      "2025-06-27": 914,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
       "2025-06-24": 1440,
@@ -494,7 +494,7 @@
     "slug": "kms-11",
     "status": "up",
     "uptime": "99.23%",
-    "uptimeDay": "61.64%",
+    "uptimeDay": "63.20%",
     "uptimeWeek": "63.48%",
     "uptimeMonth": "89.48%",
     "uptimeYear": "99.12%",
@@ -521,11 +521,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "49.61%",
-    "uptimeWeek": "69.11%",
-    "uptimeMonth": "91.92%",
+    "uptimeDay": "50.11%",
+    "uptimeWeek": "69.09%",
+    "uptimeMonth": "91.96%",
     "uptimeYear": "99.33%",
     "time": 190,
     "timeDay": 258,
@@ -533,7 +533,7 @@
     "timeMonth": 240,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-06-27": 477,
+      "2025-06-27": 479,
       "2025-06-26": 525,
       "2025-06-25": 585,
       "2025-06-24": 270,
@@ -541,7 +541,7 @@
       "2025-06-22": 442,
       "2025-06-21": 328,
       "2025-06-20": 309,
-      "2025-06-19": 224
+      "2025-06-19": 205
     }
   },
   {
