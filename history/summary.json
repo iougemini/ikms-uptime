@@ -22,12 +22,12 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "58.74%",
-    "uptimeWeek": "65.90%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "58.73%",
+    "uptimeWeek": "66.00%",
+    "uptimeMonth": "91.87%",
+    "uptimeYear": "99.32%",
     "time": 191,
     "timeDay": 268,
     "timeWeek": 278,
@@ -41,7 +41,7 @@
       "2025-06-24": 270,
       "2025-06-23": 379,
       "2025-06-22": 442,
-      "2025-06-21": 207
+      "2025-06-21": 160
     }
   },
   {
@@ -144,9 +144,9 @@
     "slug": "kms-06",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "69.81%",
-    "uptimeWeek": "65.05%",
-    "uptimeMonth": "89.83%",
+    "uptimeDay": "70.63%",
+    "uptimeWeek": "65.17%",
+    "uptimeMonth": "89.81%",
     "uptimeYear": "99.15%",
     "time": 77,
     "timeDay": 255,
@@ -154,7 +154,7 @@
     "timeMonth": 193,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-06-28": 380,
+      "2025-06-28": 368,
       "2025-06-27": 377,
       "2025-06-26": 570,
       "2025-06-25": 473,
@@ -163,7 +163,7 @@
       "2025-06-22": 640,
       "2025-06-21": 310,
       "2025-06-20": 615,
-      "2025-06-19": 124
+      "2025-06-19": 145
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 1083,
+      "2025-06-28": 1121,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -521,26 +521,26 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "58.74%",
-    "uptimeWeek": "65.92%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "58.64%",
+    "uptimeWeek": "65.98%",
+    "uptimeMonth": "91.86%",
+    "uptimeYear": "99.32%",
     "time": 191,
     "timeDay": 268,
     "timeWeek": 278,
     "timeMonth": 243,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-06-28": 443,
+      "2025-06-28": 445,
       "2025-06-27": 757,
       "2025-06-26": 525,
       "2025-06-25": 585,
       "2025-06-24": 270,
       "2025-06-23": 379,
       "2025-06-22": 442,
-      "2025-06-21": 207
+      "2025-06-21": 160
     }
   },
   {
