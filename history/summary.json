@@ -22,26 +22,26 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "55.54%",
-    "uptimeWeek": "66.28%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "55.95%",
+    "uptimeWeek": "66.23%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "99.32%",
     "time": 191,
-    "timeDay": 300,
+    "timeDay": 288,
     "timeWeek": 279,
     "timeMonth": 243,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-06-28": 375,
+      "2025-06-28": 381,
       "2025-06-27": 757,
       "2025-06-26": 525,
       "2025-06-25": 585,
       "2025-06-24": 270,
       "2025-06-23": 379,
       "2025-06-22": 442,
-      "2025-06-21": 274
+      "2025-06-21": 238
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "69.28%",
-    "uptimeWeek": "65.28%",
-    "uptimeMonth": "89.92%",
-    "uptimeYear": "99.16%",
+    "status": "down",
+    "uptime": "99.27%",
+    "uptimeDay": "69.93%",
+    "uptimeWeek": "65.23%",
+    "uptimeMonth": "90.00%",
+    "uptimeYear": "99.17%",
     "time": 77,
     "timeDay": 262,
     "timeWeek": 253,
     "timeMonth": 193,
     "timeYear": 76,
     "dailyMinutesDown": {
-      "2025-06-28": 279,
+      "2025-06-28": 284,
       "2025-06-27": 377,
       "2025-06-26": 570,
       "2025-06-25": 473,
@@ -163,7 +163,7 @@
       "2025-06-22": 640,
       "2025-06-21": 310,
       "2025-06-20": 615,
-      "2025-06-19": 185
+      "2025-06-19": 145
     }
   },
   {
@@ -204,7 +204,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-06-28": 929,
+      "2025-06-28": 951,
       "2025-06-27": 1440,
       "2025-06-26": 1440,
       "2025-06-25": 1440,
@@ -492,11 +492,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
+    "status": "down",
     "uptime": "99.18%",
-    "uptimeDay": "56.94%",
-    "uptimeWeek": "63.65%",
-    "uptimeMonth": "88.83%",
+    "uptimeDay": "56.76%",
+    "uptimeWeek": "63.63%",
+    "uptimeMonth": "88.86%",
     "uptimeYear": "99.07%",
     "time": 79,
     "timeDay": 272,
@@ -504,7 +504,7 @@
     "timeMonth": 201,
     "timeYear": 79,
     "dailyMinutesDown": {
-      "2025-06-28": 472,
+      "2025-06-28": 475,
       "2025-06-27": 446,
       "2025-06-26": 537,
       "2025-06-25": 411,
@@ -513,7 +513,7 @@
       "2025-06-22": 584,
       "2025-06-21": 552,
       "2025-06-20": 583,
-      "2025-06-19": 194
+      "2025-06-19": 179
     }
   },
   {
@@ -521,26 +521,26 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.40%",
-    "uptimeDay": "55.64%",
-    "uptimeWeek": "66.28%",
-    "uptimeMonth": "91.76%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "55.85%",
+    "uptimeWeek": "66.21%",
+    "uptimeMonth": "91.83%",
+    "uptimeYear": "99.32%",
     "time": 191,
-    "timeDay": 300,
+    "timeDay": 288,
     "timeWeek": 279,
     "timeMonth": 243,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2025-06-28": 375,
+      "2025-06-28": 382,
       "2025-06-27": 757,
       "2025-06-26": 525,
       "2025-06-25": 585,
       "2025-06-24": 270,
       "2025-06-23": 379,
       "2025-06-22": 442,
-      "2025-06-21": 274
+      "2025-06-21": 238
     }
   },
   {
