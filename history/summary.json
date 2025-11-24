@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.98%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.23%",
     "time": 196,
     "timeDay": 198,
     "timeWeek": 171,
     "timeMonth": 166,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-23": 0,
       "2025-07-20": 256,
       "2025-07-19": 472,
       "2025-07-18": 661,
@@ -43,7 +42,7 @@
       "2025-07-15": 466,
       "2025-07-14": 532,
       "2025-07-13": 395,
-      "2025-07-12": 71
+      "2025-07-12": 122
     }
   },
   {
@@ -191,11 +190,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "41.13%",
+    "uptime": "41.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "16.35%",
+    "uptimeYear": "16.36%",
     "time": 225,
     "timeDay": 201,
     "timeWeek": 225,
@@ -507,8 +506,7 @@
       "2024-11-28": 1440,
       "2024-11-27": 1440,
       "2024-11-26": 1440,
-      "2024-11-25": 1440,
-      "2024-11-24": 1440
+      "2024-11-25": 1440
     }
   },
   {
@@ -586,18 +584,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "99.98%",
+    "uptime": "99.50%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.23%",
     "time": 196,
     "timeDay": 198,
     "timeWeek": 171,
     "timeMonth": 166,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-11-23": 0,
       "2025-07-20": 256,
       "2025-07-19": 472,
       "2025-07-18": 661,
@@ -606,7 +603,7 @@
       "2025-07-15": 466,
       "2025-07-14": 532,
       "2025-07-13": 395,
-      "2025-07-12": 71
+      "2025-07-12": 122
     }
   },
   {
