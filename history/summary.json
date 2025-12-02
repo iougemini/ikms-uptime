@@ -24,10 +24,10 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.20%",
     "time": 197,
     "timeDay": 210,
     "timeWeek": 202,
@@ -49,7 +49,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 98
+      "2025-07-13": 120
     }
   },
   {
@@ -148,19 +148,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "99.31%",
-    "uptimeDay": "97.58%",
-    "uptimeWeek": "96.95%",
+    "status": "down",
+    "uptime": "99.33%",
+    "uptimeDay": "97.46%",
+    "uptimeWeek": "96.94%",
     "uptimeMonth": "99.26%",
-    "uptimeYear": "98.92%",
+    "uptimeYear": "98.94%",
     "time": 95,
     "timeDay": 252,
     "timeWeek": 188,
     "timeMonth": 157,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-12-02": 35,
+      "2025-12-02": 37,
       "2025-12-01": 41,
       "2025-11-30": 40,
       "2025-11-29": 15,
@@ -177,7 +177,7 @@
       "2025-07-14": 684,
       "2025-07-13": 631,
       "2025-07-12": 628,
-      "2025-07-11": 537
+      "2025-07-11": 388
     }
   },
   {
@@ -204,11 +204,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "42.00%",
+    "uptime": "42.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.66%",
+    "uptimeYear": "18.67%",
     "time": 225,
     "timeDay": 207,
     "timeWeek": 223,
@@ -594,10 +594,10 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.06%",
+    "uptimeDay": "98.09%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.21%",
+    "uptimeYear": "99.20%",
     "time": 197,
     "timeDay": 210,
     "timeWeek": 202,
@@ -619,7 +619,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 98
+      "2025-07-13": 120
     }
   },
   {
