@@ -23,13 +23,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "up",
-    "uptime": "99.50%",
-    "uptimeDay": "98.05%",
+    "uptime": "99.49%",
+    "uptimeDay": "98.07%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.22%",
+    "uptimeYear": "99.21%",
     "time": 197,
-    "timeDay": 194,
+    "timeDay": 192,
     "timeWeek": 201,
     "timeMonth": 196,
     "timeYear": 197,
@@ -49,7 +49,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 53
+      "2025-07-13": 98
     }
   },
   {
@@ -594,12 +594,12 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "98.07%",
     "uptimeWeek": "96.15%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 197,
-    "timeDay": 194,
+    "timeDay": 192,
     "timeWeek": 201,
     "timeMonth": 196,
     "timeYear": 197,
@@ -619,7 +619,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 120
+      "2025-07-13": 98
     }
   },
   {
