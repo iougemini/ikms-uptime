@@ -24,14 +24,14 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "98.07%",
     "uptimeWeek": "95.75%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 197,
-    "timeDay": 201,
-    "timeWeek": 198,
-    "timeMonth": 195,
+    "timeDay": 200,
+    "timeWeek": 200,
+    "timeMonth": 196,
     "timeYear": 197,
     "dailyMinutesDown": {
       "2025-12-02": 27,
@@ -49,7 +49,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 120
+      "2025-07-13": 98
     }
   },
   {
@@ -208,7 +208,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "18.59%",
+    "uptimeYear": "18.60%",
     "time": 225,
     "timeDay": 207,
     "timeWeek": 223,
@@ -560,18 +560,19 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
-    "uptime": "99.43%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "99.62%",
-    "uptimeYear": "99.11%",
+    "status": "down",
+    "uptime": "99.44%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.12%",
     "time": 98,
     "timeDay": 249,
     "timeWeek": 150,
     "timeMonth": 159,
     "timeYear": 97,
     "dailyMinutesDown": {
+      "2025-12-02": 2,
       "2025-11-30": 40,
       "2025-11-28": 32,
       "2025-11-24": 96,
@@ -584,7 +585,7 @@
       "2025-07-14": 516,
       "2025-07-13": 676,
       "2025-07-12": 442,
-      "2025-07-11": 155
+      "2025-07-11": 103
     }
   },
   {
@@ -594,12 +595,12 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.49%",
-    "uptimeDay": "98.09%",
+    "uptimeDay": "98.07%",
     "uptimeWeek": "95.75%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.20%",
+    "uptimeYear": "99.21%",
     "time": 197,
-    "timeDay": 201,
+    "timeDay": 200,
     "timeWeek": 200,
     "timeMonth": 196,
     "timeYear": 197,
@@ -619,7 +620,7 @@
       "2025-07-16": 445,
       "2025-07-15": 466,
       "2025-07-14": 532,
-      "2025-07-13": 120
+      "2025-07-13": 98
     }
   },
   {
