@@ -22,19 +22,19 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "93.83%",
+    "uptimeWeek": "97.47%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.26%",
     "time": 197,
-    "timeDay": 206,
+    "timeDay": 204,
     "timeWeek": 204,
     "timeMonth": 200,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-12-07": 83,
+      "2025-12-07": 88,
       "2025-12-05": 17,
       "2025-12-04": 74,
       "2025-12-03": 49,
@@ -52,7 +52,7 @@
       "2025-07-17": 687,
       "2025-07-16": 445,
       "2025-07-15": 466,
-      "2025-07-14": 160
+      "2025-07-14": 134
     }
   },
   {
@@ -62,9 +62,9 @@
     "slug": "kms-02",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "70.91%",
-    "uptimeWeek": "95.84%",
-    "uptimeMonth": "99.04%",
+    "uptimeDay": "69.36%",
+    "uptimeWeek": "95.62%",
+    "uptimeMonth": "98.99%",
     "uptimeYear": "99.92%",
     "time": 222,
     "timeDay": 0,
@@ -72,7 +72,7 @@
     "timeMonth": 221,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-12-07": 419
+      "2025-12-07": 441
     }
   },
   {
@@ -153,19 +153,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "93.78%",
-    "uptimeWeek": "96.79%",
-    "uptimeMonth": "98.70%",
-    "uptimeYear": "98.97%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "96.76%",
+    "uptimeMonth": "98.69%",
+    "uptimeYear": "98.99%",
     "time": 95,
     "timeDay": 210,
     "timeWeek": 189,
     "timeMonth": 171,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-12-07": 89,
+      "2025-12-07": 93,
       "2025-12-06": 15,
       "2025-12-05": 30,
       "2025-12-03": 94,
@@ -185,7 +185,7 @@
       "2025-07-15": 321,
       "2025-07-14": 684,
       "2025-07-13": 631,
-      "2025-07-12": 628
+      "2025-07-12": 538
     }
   },
   {
@@ -216,7 +216,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.17%",
+    "uptimeYear": "20.18%",
     "time": 226,
     "timeDay": 250,
     "timeWeek": 228,
@@ -563,19 +563,19 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "89.00%",
-    "uptimeWeek": "97.02%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "99.12%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "88.80%",
+    "uptimeWeek": "96.99%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "99.13%",
     "time": 98,
     "timeDay": 193,
     "timeWeek": 176,
     "timeMonth": 159,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-12-07": 158,
+      "2025-12-07": 161,
       "2025-12-06": 19,
       "2025-12-05": 123,
       "2025-11-30": 40,
@@ -589,7 +589,7 @@
       "2025-07-15": 609,
       "2025-07-14": 516,
       "2025-07-13": 676,
-      "2025-07-12": 225
+      "2025-07-12": 192
     }
   },
   {
@@ -597,19 +597,19 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "94.21%",
-    "uptimeWeek": "97.52%",
-    "uptimeMonth": "98.26%",
+    "uptimeDay": "93.71%",
+    "uptimeWeek": "97.45%",
+    "uptimeMonth": "98.25%",
     "uptimeYear": "99.26%",
     "time": 197,
-    "timeDay": 206,
+    "timeDay": 204,
     "timeWeek": 204,
     "timeMonth": 200,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-12-07": 83,
+      "2025-12-07": 90,
       "2025-12-05": 17,
       "2025-12-04": 74,
       "2025-12-03": 49,
@@ -627,7 +627,7 @@
       "2025-07-17": 687,
       "2025-07-16": 445,
       "2025-07-15": 466,
-      "2025-07-14": 160
+      "2025-07-14": 134
     }
   },
   {
@@ -645,7 +645,7 @@
     "timeDay": 250,
     "timeWeek": 225,
     "timeMonth": 219,
-    "timeYear": 213,
+    "timeYear": 214,
     "dailyMinutesDown": {
       "2024-12-09": 377,
       "2024-12-08": 679
