@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.26%",
     "time": 197,
     "timeDay": 205,
@@ -34,7 +34,7 @@
     "timeMonth": 200,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-12-07": 95,
+      "2025-12-07": 83,
       "2025-12-05": 17,
       "2025-12-04": 74,
       "2025-12-03": 49,
@@ -52,7 +52,7 @@
       "2025-07-17": 687,
       "2025-07-16": 445,
       "2025-07-15": 466,
-      "2025-07-14": 134
+      "2025-07-14": 160
     }
   },
   {
@@ -61,18 +61,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-02",
     "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "68.80%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "98.97%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.94%",
+    "uptimeDay": "63.28%",
+    "uptimeWeek": "94.75%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "99.90%",
     "time": 222,
     "timeDay": 0,
     "timeWeek": 226,
     "timeMonth": 221,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2025-12-07": 449
+      "2025-12-08": 75,
+      "2025-12-07": 454
     }
   },
   {
@@ -154,18 +155,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
     "status": "up",
-    "uptime": "99.36%",
-    "uptimeDay": "93.05%",
-    "uptimeWeek": "96.69%",
-    "uptimeMonth": "98.67%",
-    "uptimeYear": "98.99%",
+    "uptime": "99.35%",
+    "uptimeDay": "93.78%",
+    "uptimeWeek": "96.79%",
+    "uptimeMonth": "98.70%",
+    "uptimeYear": "98.97%",
     "time": 95,
     "timeDay": 215,
     "timeWeek": 192,
     "timeMonth": 173,
     "timeYear": 93,
     "dailyMinutesDown": {
-      "2025-12-07": 100,
+      "2025-12-07": 89,
       "2025-12-06": 15,
       "2025-12-05": 30,
       "2025-12-03": 94,
@@ -185,7 +186,7 @@
       "2025-07-15": 321,
       "2025-07-14": 684,
       "2025-07-13": 631,
-      "2025-07-12": 538
+      "2025-07-12": 628
     }
   },
   {
@@ -212,11 +213,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "42.56%",
+    "uptime": "42.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.18%",
+    "uptimeYear": "20.20%",
     "time": 226,
     "timeDay": 250,
     "timeWeek": 228,
@@ -514,8 +515,7 @@
       "2024-12-12": 1440,
       "2024-12-11": 1440,
       "2024-12-10": 1440,
-      "2024-12-09": 1440,
-      "2024-12-08": 1440
+      "2024-12-09": 1440
     }
   },
   {
@@ -564,18 +564,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "88.34%",
-    "uptimeWeek": "96.92%",
-    "uptimeMonth": "98.91%",
-    "uptimeYear": "99.13%",
+    "uptime": "99.44%",
+    "uptimeDay": "89.00%",
+    "uptimeWeek": "97.02%",
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.12%",
     "time": 98,
     "timeDay": 203,
     "timeWeek": 180,
     "timeMonth": 161,
     "timeYear": 97,
     "dailyMinutesDown": {
-      "2025-12-07": 167,
+      "2025-12-07": 158,
       "2025-12-06": 19,
       "2025-12-05": 123,
       "2025-11-30": 40,
@@ -589,7 +589,7 @@
       "2025-07-15": 609,
       "2025-07-14": 516,
       "2025-07-13": 676,
-      "2025-07-12": 192
+      "2025-07-12": 225
     }
   },
   {
@@ -599,9 +599,9 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "93.39%",
-    "uptimeWeek": "97.41%",
-    "uptimeMonth": "98.23%",
+    "uptimeDay": "94.21%",
+    "uptimeWeek": "97.52%",
+    "uptimeMonth": "98.26%",
     "uptimeYear": "99.26%",
     "time": 197,
     "timeDay": 205,
@@ -609,7 +609,7 @@
     "timeMonth": 200,
     "timeYear": 197,
     "dailyMinutesDown": {
-      "2025-12-07": 95,
+      "2025-12-07": 83,
       "2025-12-05": 17,
       "2025-12-04": 74,
       "2025-12-03": 49,
@@ -627,7 +627,7 @@
       "2025-07-17": 687,
       "2025-07-16": 445,
       "2025-07-15": 466,
-      "2025-07-14": 134
+      "2025-07-14": 160
     }
   },
   {
@@ -647,8 +647,7 @@
     "timeMonth": 219,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-12-09": 377,
-      "2024-12-08": 679
+      "2024-12-09": 377
     }
   },
   {
