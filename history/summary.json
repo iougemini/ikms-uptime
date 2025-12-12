@@ -24,16 +24,18 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 187,
-    "timeWeek": 206,
+    "timeDay": 181,
+    "timeWeek": 205,
     "timeMonth": 202,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 3
+    }
   },
   {
     "name": "备用KMS激活服务器 02",
@@ -112,19 +114,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.80%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 214,
+    "timeDay": 218,
     "timeWeek": 204,
-    "timeMonth": 189,
+    "timeMonth": 190,
     "timeYear": 96,
     "dailyMinutesDown": {
-      "2025-12-12": 3
+      "2025-12-12": 12
     }
   },
   {
@@ -224,16 +226,18 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.80%",
+    "uptimeWeek": "99.97%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 197,
-    "timeDay": 187,
-    "timeWeek": 206,
+    "timeDay": 181,
+    "timeWeek": 205,
     "timeMonth": 202,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-12-12": 3
+    }
   },
   {
     "name": "备用KMS激活服务器 12",
