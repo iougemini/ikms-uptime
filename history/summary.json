@@ -24,17 +24,17 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "93.56%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "93.68%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.14%",
     "time": 198,
-    "timeDay": 80,
-    "timeWeek": 95,
+    "timeDay": 102,
+    "timeWeek": 97,
     "timeMonth": 183,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-12-23": 37,
+      "2025-12-23": 39,
       "2025-12-22": 39,
       "2025-12-21": 25,
       "2025-12-20": 46,
@@ -48,7 +48,7 @@
       "2025-12-12": 49,
       "2025-05-26": 1136,
       "2025-05-25": 1196,
-      "2025-05-24": 705
+      "2025-05-24": 673
     }
   },
   {
@@ -203,7 +203,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "24.48%",
+    "uptimeYear": "24.50%",
     "time": 228,
     "timeDay": 280,
     "timeWeek": 236,
@@ -534,12 +534,12 @@
     "status": "up",
     "uptime": "98.66%",
     "uptimeDay": "96.60%",
-    "uptimeWeek": "82.54%",
+    "uptimeWeek": "82.89%",
     "uptimeMonth": "93.92%",
     "uptimeYear": "97.83%",
     "time": 103,
     "timeDay": 112,
-    "timeWeek": 95,
+    "timeWeek": 97,
     "timeMonth": 168,
     "timeYear": 104,
     "dailyMinutesDown": {
@@ -572,17 +572,17 @@
     "slug": "kms-01",
     "status": "up",
     "uptime": "99.47%",
-    "uptimeDay": "94.70%",
-    "uptimeWeek": "93.56%",
+    "uptimeDay": "94.59%",
+    "uptimeWeek": "93.70%",
     "uptimeMonth": "96.58%",
     "uptimeYear": "99.14%",
     "time": 198,
-    "timeDay": 80,
-    "timeWeek": 95,
+    "timeDay": 102,
+    "timeWeek": 97,
     "timeMonth": 183,
     "timeYear": 198,
     "dailyMinutesDown": {
-      "2025-12-23": 37,
+      "2025-12-23": 39,
       "2025-12-22": 39,
       "2025-12-21": 25,
       "2025-12-20": 46,
@@ -596,7 +596,7 @@
       "2025-12-12": 49,
       "2025-05-26": 1136,
       "2025-05-25": 1196,
-      "2025-05-24": 705
+      "2025-05-24": 673
     }
   },
   {
