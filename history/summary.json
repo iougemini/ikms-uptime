@@ -147,19 +147,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "99.26%",
-    "uptimeDay": "55.20%",
-    "uptimeWeek": "85.45%",
+    "status": "down",
+    "uptime": "99.29%",
+    "uptimeDay": "55.09%",
+    "uptimeWeek": "85.44%",
     "uptimeMonth": "92.22%",
-    "uptimeYear": "98.79%",
+    "uptimeYear": "98.84%",
     "time": 100,
     "timeDay": 72,
     "timeWeek": 97,
     "timeMonth": 144,
     "timeYear": 102,
     "dailyMinutesDown": {
-      "2025-12-29": 564,
+      "2025-12-29": 566,
       "2025-12-28": 189,
       "2025-12-27": 137,
       "2025-12-26": 105,
@@ -179,7 +179,7 @@
       "2025-12-12": 116,
       "2025-05-26": 1113,
       "2025-05-25": 1181,
-      "2025-05-24": 651
+      "2025-05-24": 413
     }
   },
   {
