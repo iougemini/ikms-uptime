@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "64.09%",
-    "uptimeWeek": "87.31%",
+    "uptime": "99.61%",
+    "uptimeDay": "65.67%",
+    "uptimeWeek": "87.56%",
     "uptimeMonth": "92.87%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.36%",
     "time": 199,
     "timeDay": 95,
     "timeWeek": 90,
     "timeMonth": 148,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-01-02": 457,
+      "2026-01-02": 455,
       "2026-01-01": 153,
       "2025-12-31": 58,
       "2025-12-30": 40,
@@ -56,7 +56,7 @@
       "2025-12-14": 138,
       "2025-12-13": 264,
       "2025-12-12": 49,
-      "2025-05-26": 201
+      "2025-05-26": 232
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "s06.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
-    "status": "up",
-    "uptime": "99.44%",
-    "uptimeDay": "96.24%",
-    "uptimeWeek": "88.13%",
+    "status": "down",
+    "uptime": "99.46%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "88.12%",
     "uptimeMonth": "91.52%",
-    "uptimeYear": "99.08%",
+    "uptimeYear": "99.10%",
     "time": 102,
     "timeDay": 93,
     "timeWeek": 87,
     "timeMonth": 139,
     "timeYear": 103,
     "dailyMinutesDown": {
-      "2026-01-02": 25,
+      "2026-01-02": 26,
       "2026-01-01": 130,
       "2025-12-31": 37,
       "2025-12-30": 53,
@@ -184,8 +184,7 @@
       "2025-12-14": 229,
       "2025-12-13": 328,
       "2025-12-12": 116,
-      "2025-05-26": 1113,
-      "2025-05-25": 35
+      "2025-05-26": 994
     }
   },
   {
@@ -541,7 +540,7 @@
     "uptimeMonth": "91.45%",
     "uptimeYear": "98.39%",
     "time": 106,
-    "timeDay": 39,
+    "timeDay": 34,
     "timeWeek": 85,
     "timeMonth": 152,
     "timeYear": 108,
@@ -581,18 +580,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "up",
-    "uptime": "99.62%",
-    "uptimeDay": "64.09%",
-    "uptimeWeek": "87.32%",
+    "uptime": "99.61%",
+    "uptimeDay": "65.80%",
+    "uptimeWeek": "87.57%",
     "uptimeMonth": "92.87%",
-    "uptimeYear": "99.37%",
+    "uptimeYear": "99.36%",
     "time": 199,
     "timeDay": 95,
     "timeWeek": 90,
     "timeMonth": 148,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-01-02": 457,
+      "2026-01-02": 455,
       "2026-01-01": 153,
       "2025-12-31": 58,
       "2025-12-30": 40,
@@ -614,7 +613,7 @@
       "2025-12-14": 138,
       "2025-12-13": 264,
       "2025-12-12": 49,
-      "2025-05-26": 201
+      "2025-05-26": 232
     }
   },
   {
