@@ -22,11 +22,11 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "91.35%",
+    "uptimeDay": "91.34%",
     "uptimeWeek": "87.65%",
-    "uptimeMonth": "92.39%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "99.37%",
     "time": 198,
     "timeDay": 123,
@@ -57,7 +57,7 @@
       "2025-12-15": 241,
       "2025-12-14": 138,
       "2025-12-13": 264,
-      "2025-12-12": 49
+      "2025-12-12": 25
     }
   },
   {
@@ -154,7 +154,7 @@
     "status": "up",
     "uptime": "99.52%",
     "uptimeDay": "87.01%",
-    "uptimeWeek": "87.15%",
+    "uptimeWeek": "87.35%",
     "uptimeMonth": "90.95%",
     "uptimeYear": "99.21%",
     "time": 103,
@@ -214,7 +214,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "45.17%",
+    "uptime": "45.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -537,7 +537,7 @@
     "status": "up",
     "uptime": "99.12%",
     "uptimeDay": "79.79%",
-    "uptimeWeek": "92.04%",
+    "uptimeWeek": "92.23%",
     "uptimeMonth": "90.66%",
     "uptimeYear": "98.54%",
     "time": 107,
@@ -581,11 +581,11 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.62%",
-    "uptimeDay": "91.35%",
-    "uptimeWeek": "87.65%",
-    "uptimeMonth": "92.39%",
+    "uptimeDay": "91.23%",
+    "uptimeWeek": "87.64%",
+    "uptimeMonth": "92.45%",
     "uptimeYear": "99.37%",
     "time": 198,
     "timeDay": 123,
@@ -593,7 +593,7 @@
     "timeMonth": 142,
     "timeYear": 199,
     "dailyMinutesDown": {
-      "2026-01-04": 17,
+      "2026-01-04": 19,
       "2026-01-03": 194,
       "2026-01-02": 455,
       "2026-01-01": 153,
@@ -616,7 +616,7 @@
       "2025-12-15": 241,
       "2025-12-14": 138,
       "2025-12-13": 264,
-      "2025-12-12": 49
+      "2025-12-12": 25
     }
   },
   {
