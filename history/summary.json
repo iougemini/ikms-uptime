@@ -29,9 +29,9 @@
     "uptimeMonth": "93.59%",
     "uptimeYear": "99.37%",
     "time": 201,
-    "timeDay": 221,
+    "timeDay": 218,
     "timeWeek": 129,
-    "timeMonth": 100,
+    "timeMonth": 99,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-01-07": 145,
@@ -66,19 +66,19 @@
     "url": "s02.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-02",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "89.35%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.65%",
+    "uptimeDay": "88.44%",
+    "uptimeWeek": "98.35%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.97%",
     "time": 221,
-    "timeDay": 176,
-    "timeWeek": 176,
-    "timeMonth": 176,
+    "timeDay": 168,
+    "timeWeek": 168,
+    "timeMonth": 168,
     "timeYear": 220,
     "dailyMinutesDown": {
-      "2026-01-16": 154
+      "2026-01-16": 167
     }
   },
   {
@@ -157,8 +157,8 @@
     "status": "down",
     "uptime": "98.46%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "4.76%",
-    "uptimeMonth": "70.58%",
+    "uptimeWeek": "4.61%",
+    "uptimeMonth": "70.55%",
     "uptimeYear": "97.40%",
     "time": 107,
     "timeDay": 0,
@@ -166,7 +166,7 @@
     "timeMonth": 103,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2026-01-16": 1411,
+      "2026-01-16": 1426,
       "2026-01-15": 1440,
       "2026-01-14": 1440,
       "2026-01-13": 1440,
@@ -590,7 +590,7 @@
     "time": 201,
     "timeDay": 218,
     "timeWeek": 129,
-    "timeMonth": 100,
+    "timeMonth": 99,
     "timeYear": 201,
     "dailyMinutesDown": {
       "2026-01-07": 145,
