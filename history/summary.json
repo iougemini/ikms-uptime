@@ -24,17 +24,17 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "73.71%",
-    "uptimeWeek": "71.54%",
+    "uptimeDay": "72.02%",
+    "uptimeWeek": "71.18%",
     "uptimeMonth": "89.35%",
     "uptimeYear": "99.11%",
     "time": 210,
-    "timeDay": 235,
+    "timeDay": 234,
     "timeWeek": 225,
     "timeMonth": 224,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-03-08": 127,
+      "2026-03-08": 163,
       "2026-03-07": 342,
       "2026-03-06": 504,
       "2026-03-05": 283,
@@ -45,7 +45,7 @@
       "2026-02-28": 500,
       "2026-02-27": 414,
       "2026-02-26": 301,
-      "2026-02-25": 333
+      "2026-02-25": 296
     }
   },
   {
@@ -167,7 +167,7 @@
     "timeMonth": 0,
     "timeYear": 137,
     "dailyMinutesDown": {
-      "2026-03-08": 330,
+      "2026-03-08": 368,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -281,7 +281,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.84%",
-    "uptimeYear": "44.88%",
+    "uptimeYear": "44.89%",
     "time": 231,
     "timeDay": 217,
     "timeWeek": 219,
@@ -504,14 +504,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
-    "uptimeYear": "87.42%",
+    "uptimeYear": "87.41%",
     "time": 119,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2026-03-08": 331,
+      "2026-03-08": 368,
       "2026-03-07": 1440,
       "2026-03-06": 1440,
       "2026-03-05": 1440,
@@ -634,17 +634,17 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.51%",
-    "uptimeDay": "73.61%",
-    "uptimeWeek": "71.52%",
-    "uptimeMonth": "89.34%",
+    "uptimeDay": "72.02%",
+    "uptimeWeek": "71.17%",
+    "uptimeMonth": "89.35%",
     "uptimeYear": "99.11%",
     "time": 210,
-    "timeDay": 235,
+    "timeDay": 234,
     "timeWeek": 225,
     "timeMonth": 224,
     "timeYear": 211,
     "dailyMinutesDown": {
-      "2026-03-08": 129,
+      "2026-03-08": 165,
       "2026-03-07": 342,
       "2026-03-06": 504,
       "2026-03-05": 283,
@@ -655,7 +655,7 @@
       "2026-02-28": 500,
       "2026-02-27": 414,
       "2026-02-26": 301,
-      "2026-02-25": 333
+      "2026-02-25": 296
     }
   },
   {
