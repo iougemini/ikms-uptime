@@ -22,15 +22,15 @@
     "url": "s01.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "28.97%",
-    "uptimeWeek": "31.18%",
+    "uptimeDay": "29.06%",
+    "uptimeWeek": "31.20%",
     "uptimeMonth": "73.18%",
-    "uptimeYear": "97.77%",
+    "uptimeYear": "97.76%",
     "time": 222,
-    "timeDay": 275,
-    "timeWeek": 298,
+    "timeDay": 272,
+    "timeWeek": 297,
     "timeMonth": 279,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -51,7 +51,7 @@
       "2026-05-25": 768,
       "2026-05-26": 1303,
       "2026-05-27": 1025,
-      "2026-05-28": 4
+      "2026-05-28": 8
     }
   },
   {
@@ -63,7 +63,7 @@
     "uptime": "99.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.55%",
-    "uptimeMonth": "91.50%",
+    "uptimeMonth": "91.51%",
     "uptimeYear": "98.10%",
     "time": 186,
     "timeDay": 118,
@@ -169,7 +169,7 @@
     "uptime": "84.01%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "70.24%",
+    "uptimeMonth": "70.25%",
     "uptimeYear": "67.24%",
     "time": 185,
     "timeDay": 200,
@@ -504,7 +504,7 @@
     "dailyMinutesDown": {
       "2025-07-10": 73,
       "2025-07-11": 42,
-      "2026-05-28": 6,
+      "2026-05-28": 11,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -671,7 +671,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-05-28": 7,
+      "2026-05-28": 11,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
@@ -845,15 +845,15 @@
     "url": "s11.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
-    "status": "down",
+    "status": "up",
     "uptime": "98.91%",
-    "uptimeDay": "28.97%",
-    "uptimeWeek": "31.18%",
+    "uptimeDay": "29.13%",
+    "uptimeWeek": "31.21%",
     "uptimeMonth": "73.18%",
     "uptimeYear": "97.76%",
     "time": 222,
-    "timeDay": 275,
-    "timeWeek": 298,
+    "timeDay": 272,
+    "timeWeek": 297,
     "timeMonth": 279,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -874,7 +874,7 @@
       "2026-05-25": 768,
       "2026-05-26": 1303,
       "2026-05-27": 1025,
-      "2026-05-28": 5
+      "2026-05-28": 8
     }
   },
   {
