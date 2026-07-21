@@ -26,8 +26,8 @@
     "uptime": "99.26%",
     "uptimeDay": "5.71%",
     "uptimeWeek": "27.20%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "98.38%",
+    "uptimeMonth": "80.45%",
+    "uptimeYear": "98.37%",
     "time": 214,
     "timeDay": 238,
     "timeWeek": 271,
@@ -43,7 +43,7 @@
       "2026-07-18": 1329,
       "2026-07-19": 1348,
       "2026-07-20": 1354,
-      "2026-07-21": 64
+      "2026-07-21": 118
     }
   },
   {
@@ -173,7 +173,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-06",
     "status": "up",
-    "uptime": "85.08%",
+    "uptime": "85.09%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -358,7 +358,7 @@
     "uptimeDay": "93.28%",
     "uptimeWeek": "97.13%",
     "uptimeMonth": "96.97%",
-    "uptimeYear": "81.49%",
+    "uptimeYear": "81.50%",
     "time": 225,
     "timeDay": 243,
     "timeWeek": 212,
@@ -463,14 +463,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.49%",
+    "uptimeYear": "50.48%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-07-21": 76,
+      "2026-07-21": 129,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -684,7 +684,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.45%",
+    "uptimeYear": "39.44%",
     "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
@@ -693,7 +693,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-07-21": 76,
+      "2026-07-21": 129,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
       "2026-07-18": 1440,
@@ -925,8 +925,8 @@
     "uptime": "99.26%",
     "uptimeDay": "5.71%",
     "uptimeWeek": "27.20%",
-    "uptimeMonth": "80.57%",
-    "uptimeYear": "98.38%",
+    "uptimeMonth": "80.45%",
+    "uptimeYear": "98.37%",
     "time": 214,
     "timeDay": 238,
     "timeWeek": 271,
@@ -942,7 +942,7 @@
       "2026-07-18": 1329,
       "2026-07-19": 1348,
       "2026-07-20": 1354,
-      "2026-07-21": 65
+      "2026-07-21": 119
     }
   },
   {
