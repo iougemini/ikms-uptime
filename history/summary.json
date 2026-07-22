@@ -25,16 +25,15 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "6.42%",
-    "uptimeWeek": "21.81%",
-    "uptimeMonth": "79.79%",
-    "uptimeYear": "98.32%",
+    "uptimeWeek": "21.37%",
+    "uptimeMonth": "79.70%",
+    "uptimeYear": "98.31%",
     "time": 216,
     "timeDay": 294,
     "timeWeek": 266,
     "timeMonth": 260,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2026-07-14": 20,
       "2026-07-15": 1009,
       "2026-07-16": 349,
       "2026-07-17": 853,
@@ -42,7 +41,7 @@
       "2026-07-19": 1348,
       "2026-07-20": 1354,
       "2026-07-21": 1359,
-      "2026-07-22": 1236
+      "2026-07-22": 1295
     }
   },
   {
@@ -357,7 +356,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "96.97%",
-    "uptimeYear": "82.00%",
+    "uptimeYear": "82.02%",
     "time": 225,
     "timeDay": 230,
     "timeWeek": 221,
@@ -461,14 +460,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "49.98%",
+    "uptimeYear": "49.97%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-07-22": 1316,
+      "2026-07-22": 1380,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -683,7 +682,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "38.94%",
+    "uptimeYear": "38.93%",
     "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
@@ -692,7 +691,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-07-22": 1316,
+      "2026-07-22": 1380,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -924,16 +923,15 @@
     "status": "down",
     "uptime": "99.23%",
     "uptimeDay": "6.42%",
-    "uptimeWeek": "21.81%",
-    "uptimeMonth": "79.78%",
-    "uptimeYear": "98.32%",
+    "uptimeWeek": "21.36%",
+    "uptimeMonth": "79.70%",
+    "uptimeYear": "98.31%",
     "time": 216,
     "timeDay": 294,
     "timeWeek": 266,
     "timeMonth": 260,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2026-07-14": 20,
       "2026-07-15": 1009,
       "2026-07-16": 349,
       "2026-07-17": 853,
@@ -941,7 +939,7 @@
       "2026-07-19": 1348,
       "2026-07-20": 1354,
       "2026-07-21": 1359,
-      "2026-07-22": 1237
+      "2026-07-22": 1296
     }
   },
   {
