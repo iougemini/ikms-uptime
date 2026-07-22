@@ -13,7 +13,7 @@
     "time": 185,
     "timeDay": 200,
     "timeWeek": 187,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 187,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "5.93%",
-    "uptimeWeek": "24.55%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "98.39%",
+    "uptime": "99.24%",
+    "uptimeDay": "6.07%",
+    "uptimeWeek": "24.18%",
+    "uptimeMonth": "80.02%",
+    "uptimeYear": "98.33%",
     "time": 216,
-    "timeDay": 258,
+    "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 259,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-07-14": 856,
+      "2026-07-14": 1045,
       "2026-07-15": 1009,
       "2026-07-16": 349,
       "2026-07-17": 853,
@@ -42,7 +42,7 @@
       "2026-07-19": 1348,
       "2026-07-20": 1354,
       "2026-07-21": 1359,
-      "2026-07-22": 7
+      "2026-07-22": 110
     }
   },
   {
@@ -59,7 +59,7 @@
     "time": 181,
     "timeDay": 206,
     "timeWeek": 168,
-    "timeMonth": 156,
+    "timeMonth": 157,
     "timeYear": 176,
     "dailyMinutesDown": {
       "2026-04-15": 40,
@@ -142,7 +142,7 @@
     "time": 226,
     "timeDay": 229,
     "timeWeek": 240,
-    "timeMonth": 225,
+    "timeMonth": 226,
     "timeYear": 229,
     "dailyMinutesDown": {}
   },
@@ -180,7 +180,7 @@
     "time": 170,
     "timeDay": 229,
     "timeWeek": 234,
-    "timeMonth": 218,
+    "timeMonth": 219,
     "timeYear": 157,
     "dailyMinutesDown": {
       "2025-12-13": 229,
@@ -343,7 +343,7 @@
     "time": 223,
     "timeDay": 230,
     "timeWeek": 233,
-    "timeMonth": 218,
+    "timeMonth": 219,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -357,7 +357,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.03%",
     "uptimeMonth": "96.97%",
-    "uptimeYear": "81.76%",
+    "uptimeYear": "81.78%",
     "time": 225,
     "timeDay": 230,
     "timeWeek": 221,
@@ -457,18 +457,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-09",
     "status": "down",
-    "uptime": "77.35%",
+    "uptime": "77.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "50.23%",
+    "uptimeYear": "50.21%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-07-22": 17,
+      "2026-07-22": 127,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -667,7 +667,7 @@
     "time": 79,
     "timeDay": 52,
     "timeWeek": 56,
-    "timeMonth": 42,
+    "timeMonth": 43,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2026-07-08": 144
@@ -683,7 +683,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "39.19%",
+    "uptimeYear": "39.16%",
     "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
@@ -692,7 +692,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-07-22": 18,
+      "2026-07-22": 127,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -922,18 +922,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "5.93%",
-    "uptimeWeek": "24.54%",
-    "uptimeMonth": "80.68%",
-    "uptimeYear": "98.39%",
+    "uptime": "99.24%",
+    "uptimeDay": "6.07%",
+    "uptimeWeek": "24.18%",
+    "uptimeMonth": "80.02%",
+    "uptimeYear": "98.33%",
     "time": 216,
-    "timeDay": 258,
+    "timeDay": 264,
     "timeWeek": 264,
     "timeMonth": 259,
     "timeYear": 213,
     "dailyMinutesDown": {
-      "2026-07-14": 856,
+      "2026-07-14": 1045,
       "2026-07-15": 1009,
       "2026-07-16": 349,
       "2026-07-17": 853,
@@ -941,7 +941,7 @@
       "2026-07-19": 1348,
       "2026-07-20": 1354,
       "2026-07-21": 1359,
-      "2026-07-22": 8
+      "2026-07-22": 111
     }
   },
   {
@@ -958,7 +958,7 @@
     "time": 221,
     "timeDay": 230,
     "timeWeek": 239,
-    "timeMonth": 224,
+    "timeMonth": 225,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
@@ -976,7 +976,7 @@
     "time": 194,
     "timeDay": 152,
     "timeWeek": 159,
-    "timeMonth": 145,
+    "timeMonth": 146,
     "timeYear": 190,
     "dailyMinutesDown": {}
   }
