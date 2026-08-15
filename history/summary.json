@@ -24,21 +24,21 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "21.30%",
-    "uptimeWeek": "46.39%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "21.25%",
+    "uptimeWeek": "46.74%",
+    "uptimeMonth": "87.74%",
+    "uptimeYear": "98.98%",
     "time": 223,
-    "timeDay": 277,
-    "timeWeek": 280,
+    "timeDay": 276,
+    "timeWeek": 277,
     "timeMonth": 274,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-08-11": 827,
+      "2026-08-11": 775,
       "2026-08-12": 1318,
       "2026-08-13": 1311,
       "2026-08-14": 1242,
-      "2026-08-15": 708
+      "2026-08-15": 726
     }
   },
   {
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-15": 878,
+      "2026-08-15": 901,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -694,7 +694,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.45%",
+    "uptimeYear": "32.44%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -703,7 +703,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-15": 878,
+      "2026-08-15": 901,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
@@ -958,21 +958,21 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "21.30%",
-    "uptimeWeek": "46.38%",
-    "uptimeMonth": "87.66%",
-    "uptimeYear": "98.97%",
+    "uptimeDay": "21.25%",
+    "uptimeWeek": "46.73%",
+    "uptimeMonth": "87.74%",
+    "uptimeYear": "98.98%",
     "time": 223,
-    "timeDay": 277,
-    "timeWeek": 280,
+    "timeDay": 276,
+    "timeWeek": 277,
     "timeMonth": 274,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-08-11": 827,
+      "2026-08-11": 775,
       "2026-08-12": 1318,
       "2026-08-13": 1311,
       "2026-08-14": 1242,
-      "2026-08-15": 709
+      "2026-08-15": 727
     }
   },
   {
