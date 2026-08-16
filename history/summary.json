@@ -23,22 +23,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "22.24%",
-    "uptimeWeek": "57.91%",
-    "uptimeMonth": "90.32%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.65%",
+    "uptimeDay": "22.30%",
+    "uptimeWeek": "58.20%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "99.20%",
     "time": 223,
     "timeDay": 287,
     "timeWeek": 276,
     "timeMonth": 273,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-08-12": 47,
       "2026-08-13": 1311,
       "2026-08-14": 1242,
       "2026-08-15": 1100,
-      "2026-08-16": 545
+      "2026-08-16": 562
     }
   },
   {
@@ -456,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-16": 640,
+      "2026-08-16": 665,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -696,7 +695,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.22%",
+    "uptimeYear": "32.21%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -705,7 +704,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-16": 640,
+      "2026-08-16": 665,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -960,22 +959,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.64%",
-    "uptimeDay": "22.24%",
-    "uptimeWeek": "57.90%",
-    "uptimeMonth": "90.31%",
-    "uptimeYear": "99.19%",
+    "uptime": "99.65%",
+    "uptimeDay": "22.30%",
+    "uptimeWeek": "58.20%",
+    "uptimeMonth": "90.38%",
+    "uptimeYear": "99.20%",
     "time": 223,
     "timeDay": 287,
     "timeWeek": 276,
     "timeMonth": 273,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-08-12": 47,
       "2026-08-13": 1311,
       "2026-08-14": 1242,
       "2026-08-15": 1100,
-      "2026-08-16": 546
+      "2026-08-16": 563
     }
   },
   {
