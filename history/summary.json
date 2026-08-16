@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "25.92%",
-    "uptimeWeek": "65.67%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "25.89%",
+    "uptimeWeek": "66.01%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "99.35%",
     "time": 223,
-    "timeDay": 268,
+    "timeDay": 267,
     "timeWeek": 275,
-    "timeMonth": 273,
+    "timeMonth": 272,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-08-13": 145,
+      "2026-08-13": 95,
       "2026-08-14": 1242,
       "2026-08-15": 1100,
-      "2026-08-16": 974
+      "2026-08-16": 990
     }
   },
   {
@@ -359,7 +359,7 @@
     "uptimeDay": "93.55%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "88.69%",
+    "uptimeYear": "88.70%",
     "time": 223,
     "timeDay": 208,
     "timeWeek": 203,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-16": 1297,
+      "2026-08-16": 1318,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -704,7 +704,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-16": 1297,
+      "2026-08-16": 1318,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -960,20 +960,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "25.85%",
-    "uptimeWeek": "65.66%",
-    "uptimeMonth": "92.10%",
-    "uptimeYear": "99.34%",
+    "uptimeDay": "25.82%",
+    "uptimeWeek": "66.00%",
+    "uptimeMonth": "92.18%",
+    "uptimeYear": "99.35%",
     "time": 223,
-    "timeDay": 268,
+    "timeDay": 267,
     "timeWeek": 275,
-    "timeMonth": 273,
+    "timeMonth": 272,
     "timeYear": 223,
     "dailyMinutesDown": {
-      "2026-08-13": 145,
+      "2026-08-13": 95,
       "2026-08-14": 1242,
       "2026-08-15": 1100,
-      "2026-08-16": 975
+      "2026-08-16": 991
     }
   },
   {
