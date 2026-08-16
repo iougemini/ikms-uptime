@@ -24,19 +24,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "25.84%",
-    "uptimeWeek": "68.22%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "26.04%",
+    "uptimeWeek": "68.11%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
     "time": 223,
-    "timeDay": 270,
-    "timeWeek": 274,
+    "timeDay": 271,
+    "timeWeek": 275,
     "timeMonth": 272,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2026-08-14": 1053,
       "2026-08-15": 1100,
-      "2026-08-16": 1051
+      "2026-08-16": 1062
     }
   },
   {
@@ -447,14 +447,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "43.12%",
+    "uptimeYear": "43.11%",
     "time": 121,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-16": 1419,
+      "2026-08-16": 1437,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -677,7 +677,7 @@
     "uptimeYear": "99.97%",
     "time": 69,
     "timeDay": 52,
-    "timeWeek": 44,
+    "timeWeek": 41,
     "timeMonth": 35,
     "timeYear": 42,
     "dailyMinutesDown": {
@@ -690,7 +690,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "70.08%",
+    "uptime": "70.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -703,7 +703,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-16": 1419,
+      "2026-08-16": 1437,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -959,19 +959,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "25.84%",
-    "uptimeWeek": "68.21%",
-    "uptimeMonth": "92.68%",
+    "uptimeDay": "25.98%",
+    "uptimeWeek": "68.10%",
+    "uptimeMonth": "92.66%",
     "uptimeYear": "99.39%",
     "time": 223,
-    "timeDay": 270,
-    "timeWeek": 274,
+    "timeDay": 271,
+    "timeWeek": 275,
     "timeMonth": 272,
     "timeYear": 224,
     "dailyMinutesDown": {
       "2026-08-14": 1053,
       "2026-08-15": 1100,
-      "2026-08-16": 1052
+      "2026-08-16": 1063
     }
   },
   {
@@ -987,7 +987,7 @@
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 238,
-    "timeWeek": 227,
+    "timeWeek": 223,
     "timeMonth": 226,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -1005,7 +1005,7 @@
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 153,
-    "timeWeek": 147,
+    "timeWeek": 144,
     "timeMonth": 138,
     "timeYear": 185,
     "dailyMinutesDown": {}
