@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "25.85%",
-    "uptimeWeek": "69.37%",
-    "uptimeMonth": "92.95%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "25.50%",
+    "uptimeWeek": "69.50%",
+    "uptimeMonth": "92.98%",
+    "uptimeYear": "99.42%",
     "time": 223,
-    "timeDay": 257,
-    "timeWeek": 274,
+    "timeDay": 253,
+    "timeWeek": 273,
     "timeMonth": 272,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-08-14": 475,
+      "2026-08-14": 422,
       "2026-08-15": 1100,
       "2026-08-16": 1052,
-      "2026-08-17": 459
+      "2026-08-17": 499
     }
   },
   {
@@ -359,7 +359,7 @@
     "uptimeDay": "96.03%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "88.82%",
+    "uptimeYear": "88.83%",
     "time": 223,
     "timeDay": 206,
     "timeWeek": 202,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-17": 511,
+      "2026-08-17": 557,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -695,7 +695,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.97%",
+    "uptimeYear": "31.96%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -704,7 +704,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-17": 511,
+      "2026-08-17": 557,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -961,20 +961,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "25.85%",
-    "uptimeWeek": "69.36%",
-    "uptimeMonth": "92.95%",
+    "uptimeDay": "25.50%",
+    "uptimeWeek": "69.49%",
+    "uptimeMonth": "92.98%",
     "uptimeYear": "99.41%",
     "time": 223,
-    "timeDay": 257,
-    "timeWeek": 274,
+    "timeDay": 253,
+    "timeWeek": 273,
     "timeMonth": 272,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-08-14": 475,
+      "2026-08-14": 422,
       "2026-08-15": 1100,
       "2026-08-16": 1052,
-      "2026-08-17": 460
+      "2026-08-17": 500
     }
   },
   {
