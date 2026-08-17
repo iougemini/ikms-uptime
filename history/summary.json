@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "20.49%",
-    "uptimeWeek": "70.81%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "20.37%",
+    "uptimeWeek": "70.85%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.44%",
     "time": 224,
     "timeDay": 278,
@@ -34,9 +34,9 @@
     "timeMonth": 273,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-08-15": 876,
+      "2026-08-15": 841,
       "2026-08-16": 1052,
-      "2026-08-17": 1013
+      "2026-08-17": 1044
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.34%",
     "uptimeMonth": "97.79%",
-    "uptimeYear": "88.95%",
+    "uptimeYear": "88.96%",
     "time": 223,
     "timeDay": 232,
     "timeWeek": 202,
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-17": 1208,
+      "2026-08-17": 1244,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -694,7 +694,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.84%",
+    "uptimeYear": "31.83%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -703,7 +703,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-17": 1208,
+      "2026-08-17": 1244,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
@@ -960,9 +960,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "20.49%",
-    "uptimeWeek": "70.80%",
-    "uptimeMonth": "93.28%",
+    "uptimeDay": "20.30%",
+    "uptimeWeek": "70.84%",
+    "uptimeMonth": "93.29%",
     "uptimeYear": "99.44%",
     "time": 224,
     "timeDay": 278,
@@ -970,9 +970,9 @@
     "timeMonth": 273,
     "timeYear": 224,
     "dailyMinutesDown": {
-      "2026-08-15": 876,
+      "2026-08-15": 841,
       "2026-08-16": 1052,
-      "2026-08-17": 1014
+      "2026-08-17": 1045
     }
   },
   {
