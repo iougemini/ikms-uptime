@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 184,
     "timeDay": 199,
-    "timeWeek": 189,
+    "timeWeek": 188,
     "timeMonth": 176,
     "timeYear": 186,
     "dailyMinutesDown": {}
@@ -24,19 +24,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "17.74%",
-    "uptimeWeek": "69.12%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "16.95%",
+    "uptimeWeek": "69.01%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "99.41%",
     "time": 224,
     "timeDay": 246,
     "timeWeek": 272,
-    "timeMonth": 273,
+    "timeMonth": 272,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-08-16": 747,
       "2026-08-17": 1179,
-      "2026-08-18": 1186
+      "2026-08-18": 1197
     }
   },
   {
@@ -52,7 +52,7 @@
     "uptimeYear": "98.02%",
     "time": 181,
     "timeDay": 154,
-    "timeWeek": 176,
+    "timeWeek": 174,
     "timeMonth": 165,
     "timeYear": 174,
     "dailyMinutesDown": {
@@ -125,7 +125,7 @@
     "uptimeYear": "100.00%",
     "time": 187,
     "timeDay": 161,
-    "timeWeek": 178,
+    "timeWeek": 176,
     "timeMonth": 171,
     "timeYear": 185,
     "dailyMinutesDown": {}
@@ -143,7 +143,7 @@
     "uptimeYear": "100.00%",
     "time": 227,
     "timeDay": 210,
-    "timeWeek": 224,
+    "timeWeek": 221,
     "timeMonth": 230,
     "timeYear": 230,
     "dailyMinutesDown": {}
@@ -161,8 +161,8 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 199,
-    "timeWeek": 212,
-    "timeMonth": 208,
+    "timeWeek": 210,
+    "timeMonth": 207,
     "timeYear": 223,
     "dailyMinutesDown": {
       "2025-08-23": 25
@@ -181,7 +181,7 @@
     "uptimeYear": "67.24%",
     "time": 169,
     "timeDay": 205,
-    "timeWeek": 217,
+    "timeWeek": 214,
     "timeMonth": 212,
     "timeYear": 160,
     "dailyMinutesDown": {
@@ -344,7 +344,7 @@
     "uptimeYear": "100.00%",
     "time": 222,
     "timeDay": 204,
-    "timeWeek": 217,
+    "timeWeek": 215,
     "timeMonth": 211,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -362,7 +362,7 @@
     "uptimeYear": "89.25%",
     "time": 222,
     "timeDay": 199,
-    "timeWeek": 205,
+    "timeWeek": 203,
     "timeMonth": 206,
     "timeYear": 222,
     "dailyMinutesDown": {
@@ -447,14 +447,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.57%",
+    "uptimeYear": "42.56%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-18": 1421,
+      "2026-08-18": 1439,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -679,7 +679,7 @@
     "uptimeYear": "99.97%",
     "time": 69,
     "timeDay": 36,
-    "timeWeek": 43,
+    "timeWeek": 41,
     "timeMonth": 35,
     "timeYear": 42,
     "dailyMinutesDown": {
@@ -705,7 +705,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-18": 1421,
+      "2026-08-18": 1439,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -963,19 +963,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "17.68%",
-    "uptimeWeek": "69.11%",
-    "uptimeMonth": "92.89%",
+    "uptimeDay": "16.88%",
+    "uptimeWeek": "69.00%",
+    "uptimeMonth": "92.87%",
     "uptimeYear": "99.41%",
     "time": 224,
     "timeDay": 246,
     "timeWeek": 272,
-    "timeMonth": 273,
+    "timeMonth": 272,
     "timeYear": 225,
     "dailyMinutesDown": {
       "2026-08-16": 747,
       "2026-08-17": 1179,
-      "2026-08-18": 1187
+      "2026-08-18": 1198
     }
   },
   {
@@ -991,7 +991,7 @@
     "uptimeYear": "100.00%",
     "time": 221,
     "timeDay": 207,
-    "timeWeek": 223,
+    "timeWeek": 222,
     "timeMonth": 224,
     "timeYear": 222,
     "dailyMinutesDown": {}
@@ -1009,7 +1009,7 @@
     "uptimeYear": "100.00%",
     "time": 191,
     "timeDay": 127,
-    "timeWeek": 144,
+    "timeWeek": 142,
     "timeMonth": 137,
     "timeYear": 185,
     "dailyMinutesDown": {}
