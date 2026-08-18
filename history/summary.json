@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "18.36%",
-    "uptimeWeek": "68.54%",
+    "uptimeDay": "17.77%",
+    "uptimeWeek": "68.55%",
     "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 224,
     "timeDay": 295,
     "timeWeek": 276,
-    "timeMonth": 273,
+    "timeMonth": 274,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-08-15": 315,
+      "2026-08-15": 289,
       "2026-08-16": 1052,
       "2026-08-17": 1179,
-      "2026-08-18": 623
+      "2026-08-18": 647
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "s02.ikms.eu.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-02",
-    "status": "up",
-    "uptime": "99.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "97.99%",
+    "status": "down",
+    "uptime": "99.13%",
+    "uptimeDay": "99.57%",
+    "uptimeWeek": "94.38%",
+    "uptimeMonth": "96.73%",
+    "uptimeYear": "98.01%",
     "time": 182,
     "timeDay": 113,
     "timeWeek": 175,
     "timeMonth": 166,
     "timeYear": 174,
     "dailyMinutesDown": {
-      "2026-04-20": 373,
+      "2026-04-20": 236,
       "2026-04-21": 395,
       "2026-04-22": 368,
       "2026-04-23": 307,
@@ -109,7 +109,8 @@
       "2026-08-14": 267,
       "2026-08-15": 67,
       "2026-08-16": 56,
-      "2026-08-17": 42
+      "2026-08-17": 42,
+      "2026-08-18": 6
     }
   },
   {
@@ -359,7 +360,7 @@
     "uptimeDay": "96.90%",
     "uptimeWeek": "96.74%",
     "uptimeMonth": "97.69%",
-    "uptimeYear": "89.12%",
+    "uptimeYear": "89.13%",
     "time": 223,
     "timeDay": 212,
     "timeWeek": 206,
@@ -454,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-18": 713,
+      "2026-08-18": 744,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -696,7 +697,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.66%",
+    "uptimeYear": "31.65%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -705,7 +706,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-18": 713,
+      "2026-08-18": 744,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
       "2026-08-15": 1440,
@@ -963,20 +964,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "18.30%",
-    "uptimeWeek": "68.53%",
+    "uptimeDay": "17.77%",
+    "uptimeWeek": "68.55%",
     "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 224,
     "timeDay": 295,
     "timeWeek": 276,
-    "timeMonth": 273,
+    "timeMonth": 274,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-08-15": 315,
+      "2026-08-15": 289,
       "2026-08-16": 1052,
       "2026-08-17": 1179,
-      "2026-08-18": 624
+      "2026-08-18": 648
     }
   },
   {
