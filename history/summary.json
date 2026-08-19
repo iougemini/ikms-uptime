@@ -24,8 +24,8 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "17.30%",
-    "uptimeWeek": "65.66%",
+    "uptimeDay": "17.35%",
+    "uptimeWeek": "65.65%",
     "uptimeMonth": "92.10%",
     "uptimeYear": "99.34%",
     "time": 224,
@@ -34,10 +34,10 @@
     "timeMonth": 271,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-08-16": 23,
       "2026-08-17": 1179,
+      "2026-08-16": 3,
       "2026-08-18": 1186,
-      "2026-08-19": 1072
+      "2026-08-19": 1093
     }
   },
   {
@@ -360,7 +360,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.42%",
     "uptimeMonth": "97.74%",
-    "uptimeYear": "89.49%",
+    "uptimeYear": "89.50%",
     "time": 222,
     "timeDay": 211,
     "timeWeek": 203,
@@ -443,18 +443,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-09",
     "status": "down",
-    "uptime": "74.67%",
+    "uptime": "74.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.33%",
+    "uptimeYear": "42.32%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-19": 1252,
+      "2026-08-19": 1279,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -697,7 +697,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "31.28%",
+    "uptimeYear": "31.27%",
     "time": 175,
     "timeDay": 0,
     "timeWeek": 0,
@@ -706,7 +706,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-19": 1252,
+      "2026-08-19": 1279,
       "2026-08-18": 1440,
       "2026-08-17": 1440,
       "2026-08-16": 1440,
@@ -965,9 +965,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "17.30%",
-    "uptimeWeek": "65.65%",
-    "uptimeMonth": "92.10%",
+    "uptimeDay": "17.35%",
+    "uptimeWeek": "65.64%",
+    "uptimeMonth": "92.09%",
     "uptimeYear": "99.34%",
     "time": 224,
     "timeDay": 253,
@@ -975,10 +975,10 @@
     "timeMonth": 271,
     "timeYear": 225,
     "dailyMinutesDown": {
-      "2026-08-16": 23,
       "2026-08-17": 1179,
+      "2026-08-16": 3,
       "2026-08-18": 1186,
-      "2026-08-19": 1073
+      "2026-08-19": 1094
     }
   },
   {
