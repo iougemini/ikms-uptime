@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "15.66%",
-    "uptimeWeek": "66.78%",
+    "uptimeDay": "15.73%",
+    "uptimeWeek": "66.81%",
     "uptimeMonth": "92.36%",
     "uptimeYear": "99.36%",
     "time": 225,
-    "timeDay": 283,
+    "timeDay": 276,
     "timeWeek": 266,
     "timeMonth": 272,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-08-18": 639,
+      "2026-08-18": 607,
       "2026-08-19": 1197,
       "2026-08-20": 1219,
-      "2026-08-21": 293
+      "2026-08-21": 322
     }
   },
   {
@@ -360,7 +360,7 @@
     "uptimeDay": "97.29%",
     "uptimeWeek": "96.70%",
     "uptimeMonth": "97.83%",
-    "uptimeYear": "89.85%",
+    "uptimeYear": "89.86%",
     "time": 222,
     "timeDay": 210,
     "timeWeek": 209,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-21": 327,
+      "2026-08-21": 363,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -699,7 +699,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.91%",
+    "uptimeYear": "30.90%",
     "time": 174,
     "timeDay": 0,
     "timeWeek": 0,
@@ -708,7 +708,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-21": 327,
+      "2026-08-21": 363,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -969,20 +969,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "15.66%",
-    "uptimeWeek": "66.77%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "15.73%",
+    "uptimeWeek": "66.80%",
+    "uptimeMonth": "92.36%",
     "uptimeYear": "99.36%",
     "time": 225,
-    "timeDay": 283,
+    "timeDay": 276,
     "timeWeek": 266,
     "timeMonth": 272,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-08-18": 639,
+      "2026-08-18": 607,
       "2026-08-19": 1197,
       "2026-08-20": 1219,
-      "2026-08-21": 294
+      "2026-08-21": 323
     }
   },
   {
