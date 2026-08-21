@@ -25,19 +25,19 @@
     "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "16.08%",
-    "uptimeWeek": "65.98%",
+    "uptimeWeek": "65.96%",
     "uptimeMonth": "92.17%",
     "uptimeYear": "99.35%",
     "time": 226,
-    "timeDay": 315,
+    "timeDay": 316,
     "timeWeek": 273,
     "timeMonth": 274,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-08-18": 209,
+      "2026-08-18": 180,
       "2026-08-19": 1197,
       "2026-08-20": 1219,
-      "2026-08-21": 805
+      "2026-08-21": 836
     }
   },
   {
@@ -360,7 +360,7 @@
     "uptimeDay": "94.22%",
     "uptimeWeek": "96.26%",
     "uptimeMonth": "97.73%",
-    "uptimeYear": "89.96%",
+    "uptimeYear": "89.97%",
     "time": 222,
     "timeDay": 214,
     "timeWeek": 210,
@@ -444,18 +444,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-09",
     "status": "down",
-    "uptime": "74.51%",
+    "uptime": "74.50%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.84%",
+    "uptimeYear": "41.83%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-21": 924,
+      "2026-08-21": 960,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -709,7 +709,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-21": 924,
+      "2026-08-21": 960,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
       "2026-08-18": 1440,
@@ -971,19 +971,19 @@
     "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "16.08%",
-    "uptimeWeek": "65.97%",
-    "uptimeMonth": "92.17%",
+    "uptimeWeek": "65.95%",
+    "uptimeMonth": "92.16%",
     "uptimeYear": "99.35%",
     "time": 226,
-    "timeDay": 315,
+    "timeDay": 316,
     "timeWeek": 273,
     "timeMonth": 274,
     "timeYear": 226,
     "dailyMinutesDown": {
-      "2026-08-18": 209,
+      "2026-08-18": 180,
       "2026-08-19": 1197,
       "2026-08-20": 1219,
-      "2026-08-21": 806
+      "2026-08-21": 837
     }
   },
   {
