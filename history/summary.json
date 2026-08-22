@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "23.08%",
-    "uptimeWeek": "67.69%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "23.80%",
+    "uptimeWeek": "67.51%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 227,
     "timeDay": 282,
@@ -36,7 +36,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 1117,
       "2026-08-21": 1205,
-      "2026-08-22": 940
+      "2026-08-22": 958
     }
   },
   {
@@ -357,12 +357,12 @@
     "slug": "kms-08",
     "status": "up",
     "uptime": "60.07%",
-    "uptimeDay": "95.42%",
+    "uptimeDay": "97.29%",
     "uptimeWeek": "96.59%",
     "uptimeMonth": "97.57%",
-    "uptimeYear": "90.27%",
+    "uptimeYear": "90.28%",
     "time": 222,
-    "timeDay": 217,
+    "timeDay": 206,
     "timeWeek": 213,
     "timeMonth": 206,
     "timeYear": 222,
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-22": 1203,
+      "2026-08-22": 1239,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -701,7 +701,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.47%",
+    "uptimeYear": "30.46%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -710,7 +710,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-22": 1203,
+      "2026-08-22": 1239,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -972,9 +972,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "23.01%",
-    "uptimeWeek": "67.68%",
-    "uptimeMonth": "92.56%",
+    "uptimeDay": "23.80%",
+    "uptimeWeek": "67.50%",
+    "uptimeMonth": "92.52%",
     "uptimeYear": "99.38%",
     "time": 227,
     "timeDay": 282,
@@ -984,7 +984,7 @@
     "dailyMinutesDown": {
       "2026-08-20": 1117,
       "2026-08-21": 1205,
-      "2026-08-22": 941
+      "2026-08-22": 959
     }
   },
   {
