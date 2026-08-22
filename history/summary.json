@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "19.47%",
-    "uptimeWeek": "66.89%",
-    "uptimeMonth": "92.38%",
+    "uptimeDay": "19.24%",
+    "uptimeWeek": "66.93%",
+    "uptimeMonth": "92.39%",
     "uptimeYear": "99.37%",
     "time": 226,
     "timeDay": 301,
@@ -34,10 +34,10 @@
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-19": 221,
+      "2026-08-19": 199,
       "2026-08-20": 1219,
       "2026-08-21": 1205,
-      "2026-08-22": 695
+      "2026-08-22": 714
     }
   },
   {
@@ -358,7 +358,7 @@
     "slug": "kms-08",
     "status": "up",
     "uptime": "60.06%",
-    "uptimeDay": "93.24%",
+    "uptimeDay": "94.68%",
     "uptimeWeek": "96.76%",
     "uptimeMonth": "97.60%",
     "uptimeYear": "90.21%",
@@ -455,7 +455,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-22": 837,
+      "2026-08-22": 862,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -697,11 +697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "69.61%",
+    "uptime": "69.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.54%",
+    "uptimeYear": "30.53%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -710,7 +710,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-22": 837,
+      "2026-08-22": 862,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -972,20 +972,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "19.47%",
-    "uptimeWeek": "66.88%",
-    "uptimeMonth": "92.38%",
-    "uptimeYear": "99.36%",
+    "uptimeDay": "19.24%",
+    "uptimeWeek": "66.92%",
+    "uptimeMonth": "92.39%",
+    "uptimeYear": "99.37%",
     "time": 226,
-    "timeDay": 298,
-    "timeWeek": 274,
+    "timeDay": 301,
+    "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-19": 221,
+      "2026-08-19": 199,
       "2026-08-20": 1219,
       "2026-08-21": 1205,
-      "2026-08-22": 696
+      "2026-08-22": 715
     }
   },
   {
