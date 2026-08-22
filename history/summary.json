@@ -25,19 +25,19 @@
     "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "17.41%",
-    "uptimeWeek": "66.36%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "66.54%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "99.36%",
     "time": 226,
     "timeDay": 308,
-    "timeWeek": 276,
+    "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-19": 502,
+      "2026-08-19": 461,
       "2026-08-20": 1219,
       "2026-08-21": 1205,
-      "2026-08-22": 467
+      "2026-08-22": 490
     }
   },
   {
@@ -47,9 +47,9 @@
     "slug": "kms-02",
     "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "97.95%",
-    "uptimeMonth": "96.96%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "97.66%",
+    "uptimeMonth": "96.89%",
     "uptimeYear": "98.03%",
     "time": 181,
     "timeDay": 182,
@@ -111,7 +111,7 @@
       "2026-08-16": 56,
       "2026-08-17": 42,
       "2026-08-18": 80,
-      "2026-08-22": 6
+      "2026-08-22": 35
     }
   },
   {
@@ -448,14 +448,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.64%",
+    "uptimeYear": "41.63%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-22": 537,
+      "2026-08-22": 566,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -710,7 +710,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-22": 537,
+      "2026-08-22": 567,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
@@ -973,19 +973,19 @@
     "status": "down",
     "uptime": "99.72%",
     "uptimeDay": "17.41%",
-    "uptimeWeek": "66.35%",
-    "uptimeMonth": "92.26%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "66.53%",
+    "uptimeMonth": "92.30%",
+    "uptimeYear": "99.36%",
     "time": 226,
     "timeDay": 308,
-    "timeWeek": 276,
+    "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-19": 502,
+      "2026-08-19": 461,
       "2026-08-20": 1219,
       "2026-08-21": 1205,
-      "2026-08-22": 468
+      "2026-08-22": 491
     }
   },
   {
