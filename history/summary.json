@@ -23,20 +23,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "24.28%",
-    "uptimeWeek": "69.06%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.73%",
+    "uptimeDay": "25.22%",
+    "uptimeWeek": "68.12%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "99.39%",
     "time": 227,
-    "timeDay": 280,
+    "timeDay": 282,
     "timeWeek": 275,
     "timeMonth": 274,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-20": 829,
+      "2026-08-20": 878,
       "2026-08-21": 1205,
-      "2026-08-22": 1091
+      "2026-08-22": 1077,
+      "2026-08-23": 59
     }
   },
   {
@@ -53,7 +54,7 @@
     "time": 181,
     "timeDay": 188,
     "timeWeek": 179,
-    "timeMonth": 166,
+    "timeMonth": 167,
     "timeYear": 174,
     "dailyMinutesDown": {
       "2026-04-21": 395,
@@ -126,7 +127,7 @@
     "time": 187,
     "timeDay": 204,
     "timeWeek": 186,
-    "timeMonth": 171,
+    "timeMonth": 172,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -144,7 +145,7 @@
     "time": 227,
     "timeDay": 251,
     "timeWeek": 227,
-    "timeMonth": 228,
+    "timeMonth": 229,
     "timeYear": 230,
     "dailyMinutesDown": {}
   },
@@ -164,9 +165,7 @@
     "timeWeek": 219,
     "timeMonth": 207,
     "timeYear": 223,
-    "dailyMinutesDown": {
-      "2025-08-23": 25
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "备用KMS激活服务器 06",
@@ -359,7 +358,7 @@
     "uptimeDay": "97.34%",
     "uptimeWeek": "96.38%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "90.31%",
+    "uptimeYear": "90.32%",
     "time": 222,
     "timeDay": 208,
     "timeWeek": 211,
@@ -399,7 +398,6 @@
       "2025-08-26": 1440,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
-      "2025-08-23": 1440,
       "2025-10-27": 18,
       "2026-01-25": 61,
       "2026-02-17": 61,
@@ -443,18 +441,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-09",
     "status": "down",
-    "uptime": "74.39%",
+    "uptime": "74.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.47%",
+    "uptimeYear": "41.46%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-23": 0,
+      "2026-08-23": 60,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -685,7 +683,7 @@
     "time": 67,
     "timeDay": 63,
     "timeWeek": 56,
-    "timeMonth": 36,
+    "timeMonth": 37,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2026-07-08": 144
@@ -701,7 +699,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.42%",
+    "uptimeYear": "30.41%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -710,7 +708,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-23": 0,
+      "2026-08-23": 60,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -972,21 +970,21 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "24.28%",
-    "uptimeWeek": "69.05%",
-    "uptimeMonth": "92.88%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.73%",
+    "uptimeDay": "25.17%",
+    "uptimeWeek": "68.12%",
+    "uptimeMonth": "92.66%",
+    "uptimeYear": "99.39%",
     "time": 227,
-    "timeDay": 280,
+    "timeDay": 282,
     "timeWeek": 275,
     "timeMonth": 274,
     "timeYear": 227,
     "dailyMinutesDown": {
-      "2026-08-20": 829,
+      "2026-08-20": 878,
       "2026-08-21": 1205,
-      "2026-08-22": 1092,
-      "2026-08-23": 0
+      "2026-08-22": 1077,
+      "2026-08-23": 60
     }
   },
   {
@@ -1003,7 +1001,7 @@
     "time": 221,
     "timeDay": 256,
     "timeWeek": 229,
-    "timeMonth": 223,
+    "timeMonth": 224,
     "timeYear": 222,
     "dailyMinutesDown": {}
   },
