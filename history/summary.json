@@ -24,19 +24,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "23.22%",
-    "uptimeWeek": "71.74%",
-    "uptimeMonth": "93.50%",
+    "uptimeDay": "22.79%",
+    "uptimeWeek": "71.87%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.46%",
     "time": 228,
-    "timeDay": 279,
+    "timeDay": 281,
     "timeWeek": 276,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-21": 704,
+      "2026-08-21": 672,
       "2026-08-22": 1077,
-      "2026-08-23": 1071
+      "2026-08-23": 1090
     }
   },
   {
@@ -355,12 +355,12 @@
     "slug": "kms-08",
     "status": "up",
     "uptime": "60.12%",
-    "uptimeDay": "97.04%",
+    "uptimeDay": "97.90%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "90.56%",
+    "uptimeYear": "90.57%",
     "time": 222,
-    "timeDay": 203,
+    "timeDay": 233,
     "timeWeek": 212,
     "timeMonth": 206,
     "timeYear": 222,
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-23": 1351,
+      "2026-08-23": 1376,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -709,7 +709,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-23": 1351,
+      "2026-08-23": 1376,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -972,19 +972,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "23.22%",
-    "uptimeWeek": "71.73%",
-    "uptimeMonth": "93.49%",
+    "uptimeDay": "22.74%",
+    "uptimeWeek": "71.87%",
+    "uptimeMonth": "93.53%",
     "uptimeYear": "99.46%",
     "time": 228,
-    "timeDay": 279,
+    "timeDay": 281,
     "timeWeek": 276,
-    "timeMonth": 274,
+    "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-21": 704,
+      "2026-08-21": 672,
       "2026-08-22": 1077,
-      "2026-08-23": 1072
+      "2026-08-23": 1091
     }
   },
   {
