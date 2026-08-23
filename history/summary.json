@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "23.95%",
-    "uptimeWeek": "68.65%",
-    "uptimeMonth": "92.79%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "68.55%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 227,
-    "timeDay": 262,
-    "timeWeek": 272,
+    "timeDay": 263,
+    "timeWeek": 273,
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-08-20": 308,
       "2026-08-21": 1205,
       "2026-08-22": 1077,
-      "2026-08-23": 577
+      "2026-08-23": 586
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeDay": "97.34%",
     "uptimeWeek": "96.73%",
     "uptimeMonth": "97.52%",
-    "uptimeYear": "90.44%",
+    "uptimeYear": "90.45%",
     "time": 222,
     "timeDay": 208,
     "timeWeek": 210,
@@ -445,14 +445,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "41.34%",
+    "uptimeYear": "41.33%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-23": 669,
+      "2026-08-23": 699,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -708,7 +708,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-23": 669,
+      "2026-08-23": 699,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -971,20 +971,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "23.95%",
-    "uptimeWeek": "68.64%",
-    "uptimeMonth": "92.78%",
+    "uptimeDay": "25.01%",
+    "uptimeWeek": "68.55%",
+    "uptimeMonth": "92.76%",
     "uptimeYear": "99.40%",
     "time": 227,
-    "timeDay": 262,
-    "timeWeek": 272,
+    "timeDay": 263,
+    "timeWeek": 273,
     "timeMonth": 275,
     "timeYear": 227,
     "dailyMinutesDown": {
       "2026-08-20": 308,
       "2026-08-21": 1205,
       "2026-08-22": 1077,
-      "2026-08-23": 578
+      "2026-08-23": 587
     }
   },
   {
