@@ -24,9 +24,9 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "23.47%",
-    "uptimeWeek": "70.62%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "22.64%",
+    "uptimeWeek": "70.73%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 227,
     "timeDay": 281,
@@ -34,9 +34,9 @@
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-21": 938,
+      "2026-08-21": 912,
       "2026-08-22": 1077,
-      "2026-08-23": 950
+      "2026-08-23": 965
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeDay": "96.42%",
     "uptimeWeek": "97.00%",
     "uptimeMonth": "97.45%",
-    "uptimeYear": "90.53%",
+    "uptimeYear": "90.54%",
     "time": 222,
     "timeDay": 203,
     "timeWeek": 212,
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2026-08-23": 1176,
+      "2026-08-23": 1196,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -700,7 +700,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "30.20%",
+    "uptimeYear": "30.19%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -709,7 +709,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-23": 1176,
+      "2026-08-23": 1197,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
@@ -972,19 +972,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "23.47%",
-    "uptimeWeek": "70.61%",
-    "uptimeMonth": "93.24%",
+    "uptimeDay": "22.57%",
+    "uptimeWeek": "70.72%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.44%",
     "time": 227,
-    "timeDay": 281,
+    "timeDay": 283,
     "timeWeek": 276,
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-21": 938,
+      "2026-08-21": 912,
       "2026-08-22": 1077,
-      "2026-08-23": 951
+      "2026-08-23": 966
     }
   },
   {
