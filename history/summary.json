@@ -23,20 +23,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "14.50%",
-    "uptimeWeek": "69.44%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.75%",
+    "uptimeDay": "14.37%",
+    "uptimeWeek": "69.87%",
+    "uptimeMonth": "93.07%",
+    "uptimeYear": "99.42%",
     "time": 227,
-    "timeDay": 275,
+    "timeDay": 274,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-22": 742,
+      "2026-08-22": 698,
       "2026-08-23": 1107,
-      "2026-08-24": 1232
+      "2026-08-24": 1234
     }
   },
   {
@@ -446,14 +446,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.93%",
+    "uptimeYear": "40.92%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-08-24": 1413,
+      "2026-08-24": 1420,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -710,7 +710,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-24": 1413,
+      "2026-08-24": 1420,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -973,20 +973,20 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "99.74%",
-    "uptimeDay": "14.43%",
-    "uptimeWeek": "69.44%",
-    "uptimeMonth": "92.97%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.75%",
+    "uptimeDay": "14.31%",
+    "uptimeWeek": "69.86%",
+    "uptimeMonth": "93.06%",
+    "uptimeYear": "99.42%",
     "time": 227,
-    "timeDay": 275,
+    "timeDay": 274,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-08-22": 742,
+      "2026-08-22": 698,
       "2026-08-23": 1107,
-      "2026-08-24": 1233
+      "2026-08-24": 1235
     }
   },
   {
