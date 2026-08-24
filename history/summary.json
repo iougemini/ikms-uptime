@@ -24,19 +24,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "14.37%",
-    "uptimeWeek": "69.87%",
-    "uptimeMonth": "93.07%",
+    "uptimeDay": "13.65%",
+    "uptimeWeek": "69.76%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "99.42%",
     "time": 227,
-    "timeDay": 274,
+    "timeDay": 273,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2026-08-22": 698,
       "2026-08-23": 1107,
-      "2026-08-24": 1234
+      "2026-08-24": 1244
     }
   },
   {
@@ -358,7 +358,7 @@
     "uptimeDay": "89.90%",
     "uptimeWeek": "95.56%",
     "uptimeMonth": "97.12%",
-    "uptimeYear": "90.82%",
+    "uptimeYear": "90.83%",
     "time": 222,
     "timeDay": 205,
     "timeWeek": 210,
@@ -453,7 +453,7 @@
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-08-24": 1420,
+      "2026-08-24": 1438,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -697,11 +697,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "69.41%",
+    "uptime": "69.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.88%",
+    "uptimeYear": "29.87%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -710,7 +710,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-24": 1420,
+      "2026-08-24": 1438,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
@@ -974,19 +974,19 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "14.31%",
-    "uptimeWeek": "69.86%",
-    "uptimeMonth": "93.06%",
+    "uptimeDay": "13.58%",
+    "uptimeWeek": "69.75%",
+    "uptimeMonth": "93.04%",
     "uptimeYear": "99.42%",
     "time": 227,
-    "timeDay": 274,
+    "timeDay": 273,
     "timeWeek": 275,
     "timeMonth": 275,
     "timeYear": 228,
     "dailyMinutesDown": {
       "2026-08-22": 698,
       "2026-08-23": 1107,
-      "2026-08-24": 1235
+      "2026-08-24": 1245
     }
   },
   {
