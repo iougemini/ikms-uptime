@@ -25,8 +25,8 @@
     "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "14.36%",
-    "uptimeWeek": "65.66%",
-    "uptimeMonth": "92.10%",
+    "uptimeWeek": "65.57%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 228,
     "timeDay": 262,
@@ -34,10 +34,10 @@
     "timeMonth": 274,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-22": 170,
+      "2026-08-22": 149,
       "2026-08-23": 1107,
       "2026-08-24": 1235,
-      "2026-08-25": 949
+      "2026-08-25": 979
     }
   },
   {
@@ -48,12 +48,12 @@
     "status": "up",
     "uptime": "99.16%",
     "uptimeDay": "97.22%",
-    "uptimeWeek": "97.78%",
+    "uptimeWeek": "97.84%",
     "uptimeMonth": "97.05%",
     "uptimeYear": "98.08%",
     "time": 181,
     "timeDay": 141,
-    "timeWeek": 182,
+    "timeWeek": 187,
     "timeMonth": 169,
     "timeYear": 173,
     "dailyMinutesDown": {
@@ -359,7 +359,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "96.32%",
     "uptimeMonth": "97.28%",
-    "uptimeYear": "91.03%",
+    "uptimeYear": "91.04%",
     "time": 222,
     "timeDay": 203,
     "timeWeek": 212,
@@ -446,14 +446,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "40.72%",
+    "uptimeYear": "40.71%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-08-25": 1076,
+      "2026-08-25": 1111,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -702,7 +702,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.67%",
+    "uptimeYear": "29.66%",
     "time": 173,
     "timeDay": 0,
     "timeWeek": 0,
@@ -711,7 +711,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-25": 1076,
+      "2026-08-25": 1111,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
@@ -977,8 +977,8 @@
     "status": "down",
     "uptime": "99.71%",
     "uptimeDay": "14.36%",
-    "uptimeWeek": "65.65%",
-    "uptimeMonth": "92.10%",
+    "uptimeWeek": "65.56%",
+    "uptimeMonth": "92.08%",
     "uptimeYear": "99.34%",
     "time": 228,
     "timeDay": 262,
@@ -986,10 +986,10 @@
     "timeMonth": 274,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-22": 170,
+      "2026-08-22": 149,
       "2026-08-23": 1107,
       "2026-08-24": 1235,
-      "2026-08-25": 950
+      "2026-08-25": 980
     }
   },
   {
