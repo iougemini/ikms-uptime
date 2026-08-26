@@ -24,20 +24,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "16.58%",
-    "uptimeWeek": "64.43%",
-    "uptimeMonth": "91.82%",
+    "uptimeDay": "16.57%",
+    "uptimeWeek": "64.42%",
+    "uptimeMonth": "91.81%",
     "uptimeYear": "99.32%",
     "time": 228,
-    "timeDay": 264,
-    "timeWeek": 277,
+    "timeDay": 263,
+    "timeWeek": 276,
     "timeMonth": 273,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-23": 617,
+      "2026-08-23": 589,
       "2026-08-24": 1235,
       "2026-08-25": 1213,
-      "2026-08-26": 520
+      "2026-08-26": 549
     }
   },
   {
@@ -359,7 +359,7 @@
     "uptimeDay": "84.61%",
     "uptimeWeek": "94.12%",
     "uptimeMonth": "96.78%",
-    "uptimeYear": "91.17%",
+    "uptimeYear": "91.18%",
     "time": 222,
     "timeDay": 215,
     "timeWeek": 213,
@@ -454,7 +454,7 @@
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-08-26": 595,
+      "2026-08-26": 630,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -704,7 +704,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "29.49%",
+    "uptimeYear": "29.48%",
     "time": 172,
     "timeDay": 0,
     "timeWeek": 0,
@@ -713,7 +713,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-08-26": 595,
+      "2026-08-26": 630,
       "2026-08-25": 1440,
       "2026-08-24": 1440,
       "2026-08-23": 1440,
@@ -979,20 +979,20 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "16.58%",
-    "uptimeWeek": "64.42%",
+    "uptimeDay": "16.57%",
+    "uptimeWeek": "64.41%",
     "uptimeMonth": "91.81%",
     "uptimeYear": "99.32%",
     "time": 228,
-    "timeDay": 264,
-    "timeWeek": 277,
+    "timeDay": 263,
+    "timeWeek": 276,
     "timeMonth": 273,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2026-08-23": 617,
+      "2026-08-23": 589,
       "2026-08-24": 1235,
       "2026-08-25": 1213,
-      "2026-08-26": 521
+      "2026-08-26": 550
     }
   },
   {
