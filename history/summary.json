@@ -23,14 +23,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.97%",
+    "uptime": "98.96%",
     "uptimeDay": "3.21%",
-    "uptimeWeek": "2.55%",
-    "uptimeMonth": "71.38%",
-    "uptimeYear": "97.61%",
+    "uptimeWeek": "2.49%",
+    "uptimeMonth": "71.17%",
+    "uptimeYear": "97.60%",
     "time": 229,
     "timeDay": 306,
-    "timeWeek": 273,
+    "timeWeek": 264,
     "timeMonth": 274,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -44,7 +44,7 @@
       "2026-08-31": 1409,
       "2026-09-01": 1400,
       "2026-09-02": 1395,
-      "2026-09-03": 56
+      "2026-09-03": 146
     }
   },
   {
@@ -368,7 +368,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.33%",
-    "uptimeYear": "93.26%",
+    "uptimeYear": "93.28%",
     "time": 222,
     "timeDay": 234,
     "timeWeek": 213,
@@ -448,14 +448,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.44%",
+    "uptimeYear": "38.42%",
     "time": 122,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 126,
     "dailyMinutesDown": {
-      "2026-09-03": 68,
+      "2026-09-03": 158,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -713,7 +713,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "27.40%",
+    "uptimeYear": "27.38%",
     "time": 172,
     "timeDay": 0,
     "timeWeek": 0,
@@ -722,7 +722,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-09-03": 68,
+      "2026-09-03": 158,
       "2026-09-02": 1440,
       "2026-09-01": 1440,
       "2026-08-31": 1440,
@@ -995,14 +995,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.97%",
+    "uptime": "98.96%",
     "uptimeDay": "3.21%",
-    "uptimeWeek": "2.55%",
-    "uptimeMonth": "71.38%",
-    "uptimeYear": "97.61%",
+    "uptimeWeek": "2.49%",
+    "uptimeMonth": "71.17%",
+    "uptimeYear": "97.60%",
     "time": 229,
     "timeDay": 306,
-    "timeWeek": 273,
+    "timeWeek": 264,
     "timeMonth": 274,
     "timeYear": 230,
     "dailyMinutesDown": {
@@ -1016,7 +1016,7 @@
       "2026-08-31": 1409,
       "2026-09-01": 1400,
       "2026-09-02": 1395,
-      "2026-09-03": 57
+      "2026-09-03": 147
     }
   },
   {
