@@ -24,17 +24,17 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "3.69%",
+    "uptimeDay": "3.68%",
     "uptimeWeek": "3.21%",
-    "uptimeMonth": "57.51%",
-    "uptimeYear": "96.46%",
+    "uptimeMonth": "57.68%",
+    "uptimeYear": "96.47%",
     "time": 229,
-    "timeDay": 269,
+    "timeDay": 268,
     "timeWeek": 264,
-    "timeMonth": 261,
+    "timeMonth": 262,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-09-10": 604,
+      "2026-09-10": 392,
       "2026-09-11": 1396,
       "2026-09-12": 1387,
       "2026-09-13": 1385,
@@ -47,7 +47,8 @@
       "2026-09-20": 1395,
       "2026-09-21": 1405,
       "2026-09-22": 1385,
-      "2026-09-23": 1299
+      "2026-09-23": 1392,
+      "2026-09-24": 42
     }
   },
   {
@@ -64,7 +65,7 @@
     "time": 178,
     "timeDay": 162,
     "timeWeek": 123,
-    "timeMonth": 140,
+    "timeMonth": 138,
     "timeYear": 170,
     "dailyMinutesDown": {
       "2026-04-23": 120,
@@ -160,7 +161,7 @@
     "time": 230,
     "timeDay": 185,
     "timeWeek": 226,
-    "timeMonth": 262,
+    "timeMonth": 263,
     "timeYear": 232,
     "dailyMinutesDown": {}
   },
@@ -178,7 +179,7 @@
     "time": 222,
     "timeDay": 182,
     "timeWeek": 245,
-    "timeMonth": 233,
+    "timeMonth": 234,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -360,7 +361,7 @@
     "timeDay": 199,
     "timeWeek": 312,
     "timeMonth": 229,
-    "timeYear": 223,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -369,11 +370,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "61.40%",
+    "uptime": "61.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.18%",
     "uptimeMonth": "95.93%",
-    "uptimeYear": "98.72%",
+    "uptimeYear": "98.74%",
     "time": 221,
     "timeDay": 415,
     "timeWeek": 259,
@@ -381,7 +382,6 @@
     "timeYear": 221,
     "dailyMinutesDown": {
       "2025-09-25": 470,
-      "2025-09-24": 1440,
       "2025-10-27": 18,
       "2026-01-25": 61,
       "2026-02-17": 61,
@@ -440,14 +440,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "32.72%",
+    "uptimeYear": "32.69%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-09-23": 1348,
+      "2026-09-24": 48,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -721,11 +722,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "67.01%",
+    "uptime": "67.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.67%",
+    "uptimeYear": "21.65%",
     "time": 170,
     "timeDay": 0,
     "timeWeek": 0,
@@ -734,7 +735,8 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-09-23": 1348,
+      "2026-09-24": 48,
+      "2026-09-23": 1440,
       "2026-09-22": 1440,
       "2026-09-21": 1440,
       "2026-09-20": 1440,
@@ -1028,17 +1030,17 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.51%",
-    "uptimeDay": "3.69%",
+    "uptimeDay": "3.68%",
     "uptimeWeek": "3.21%",
-    "uptimeMonth": "57.51%",
-    "uptimeYear": "96.46%",
+    "uptimeMonth": "57.68%",
+    "uptimeYear": "96.47%",
     "time": 229,
-    "timeDay": 269,
+    "timeDay": 268,
     "timeWeek": 264,
-    "timeMonth": 261,
+    "timeMonth": 262,
     "timeYear": 232,
     "dailyMinutesDown": {
-      "2026-09-10": 604,
+      "2026-09-10": 392,
       "2026-09-11": 1396,
       "2026-09-12": 1387,
       "2026-09-13": 1385,
@@ -1051,7 +1053,8 @@
       "2026-09-20": 1395,
       "2026-09-21": 1405,
       "2026-09-22": 1385,
-      "2026-09-23": 1300
+      "2026-09-23": 1392,
+      "2026-09-24": 43
     }
   },
   {
@@ -1087,7 +1090,7 @@
     "timeDay": 116,
     "timeWeek": 143,
     "timeMonth": 135,
-    "timeYear": 178,
+    "timeYear": 177,
     "dailyMinutesDown": {}
   }
 ]
