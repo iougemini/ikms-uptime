@@ -26,8 +26,8 @@
     "uptime": "98.33%",
     "uptimeDay": "2.34%",
     "uptimeWeek": "2.76%",
-    "uptimeMonth": "52.03%",
-    "uptimeYear": "96.00%",
+    "uptimeMonth": "51.83%",
+    "uptimeYear": "95.99%",
     "time": 230,
     "timeDay": 262,
     "timeWeek": 261,
@@ -49,7 +49,7 @@
       "2026-09-29": 1405,
       "2026-09-30": 1407,
       "2026-10-01": 1404,
-      "2026-10-02": 121
+      "2026-10-02": 210
     }
   },
   {
@@ -58,11 +58,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-02",
     "status": "down",
-    "uptime": "99.18%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "96.49%",
-    "uptimeMonth": "98.10%",
-    "uptimeYear": "98.03%",
+    "uptime": "99.17%",
+    "uptimeDay": "93.40%",
+    "uptimeWeek": "95.61%",
+    "uptimeMonth": "97.90%",
+    "uptimeYear": "98.02%",
     "time": 177,
     "timeDay": 0,
     "timeWeek": 162,
@@ -129,7 +129,7 @@
       "2026-09-14": 195,
       "2026-09-26": 220,
       "2026-09-29": 128,
-      "2026-10-02": 6
+      "2026-10-02": 95
     }
   },
   {
@@ -441,18 +441,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-09",
     "status": "down",
-    "uptime": "70.98%",
+    "uptime": "70.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "30.48%",
+    "uptimeYear": "30.47%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-02": 134,
+      "2026-10-02": 223,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -739,7 +739,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "19.44%",
+    "uptimeYear": "19.42%",
     "time": 168,
     "timeDay": 0,
     "timeWeek": 0,
@@ -748,7 +748,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-10-02": 134,
+      "2026-10-02": 223,
       "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
@@ -1050,11 +1050,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.33%",
+    "uptime": "98.32%",
     "uptimeDay": "2.34%",
     "uptimeWeek": "2.76%",
-    "uptimeMonth": "52.03%",
-    "uptimeYear": "96.00%",
+    "uptimeMonth": "51.83%",
+    "uptimeYear": "95.99%",
     "time": 230,
     "timeDay": 262,
     "timeWeek": 261,
@@ -1076,7 +1076,7 @@
       "2026-09-29": 1405,
       "2026-09-30": 1407,
       "2026-10-01": 1404,
-      "2026-10-02": 122
+      "2026-10-02": 211
     }
   },
   {
