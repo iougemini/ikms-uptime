@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.11%",
     "uptimeDay": "1.91%",
     "uptimeWeek": "2.53%",
-    "uptimeMonth": "45.50%",
-    "uptimeYear": "95.46%",
+    "uptimeMonth": "45.31%",
+    "uptimeYear": "95.44%",
     "time": 231,
     "timeDay": 242,
     "timeWeek": 277,
@@ -51,7 +51,7 @@
       "2026-10-05": 1401,
       "2026-10-06": 1404,
       "2026-10-07": 1407,
-      "2026-10-08": 152
+      "2026-10-08": 236
     }
   },
   {
@@ -448,14 +448,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "28.83%",
+    "uptimeYear": "28.82%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-08": 164,
+      "2026-10-08": 248,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -744,11 +744,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-11",
     "status": "down",
-    "uptime": "65.93%",
+    "uptime": "65.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "17.79%",
+    "uptimeYear": "17.77%",
     "time": 167,
     "timeDay": 0,
     "timeWeek": 0,
@@ -757,7 +757,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-10-08": 164,
+      "2026-10-08": 248,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
       "2026-10-05": 1440,
@@ -1065,11 +1065,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.12%",
+    "uptime": "98.11%",
     "uptimeDay": "1.91%",
     "uptimeWeek": "2.53%",
-    "uptimeMonth": "45.50%",
-    "uptimeYear": "95.46%",
+    "uptimeMonth": "45.30%",
+    "uptimeYear": "95.44%",
     "time": 231,
     "timeDay": 242,
     "timeWeek": 277,
@@ -1093,7 +1093,7 @@
       "2026-10-05": 1401,
       "2026-10-06": 1404,
       "2026-10-07": 1407,
-      "2026-10-08": 153
+      "2026-10-08": 237
     }
   },
   {
