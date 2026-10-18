@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 182,
     "timeDay": 180,
-    "timeWeek": 162,
+    "timeWeek": 166,
     "timeMonth": 163,
     "timeYear": 183,
     "dailyMinutesDown": {}
@@ -24,13 +24,13 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "4.39%",
-    "uptimeWeek": "2.85%",
-    "uptimeMonth": "45.29%",
-    "uptimeYear": "95.44%",
+    "uptimeDay": "3.84%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "45.12%",
+    "uptimeYear": "95.43%",
     "time": 232,
-    "timeDay": 234,
-    "timeWeek": 278,
+    "timeDay": 239,
+    "timeWeek": 280,
     "timeMonth": 265,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -52,7 +52,7 @@
       "2026-10-15": 1400,
       "2026-10-16": 1398,
       "2026-10-17": 1370,
-      "2026-10-18": 78
+      "2026-10-18": 151
     }
   },
   {
@@ -68,7 +68,7 @@
     "uptimeYear": "97.87%",
     "time": 176,
     "timeDay": 87,
-    "timeWeek": 153,
+    "timeWeek": 154,
     "timeMonth": 151,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -149,7 +149,7 @@
     "uptimeYear": "100.00%",
     "time": 185,
     "timeDay": 201,
-    "timeWeek": 177,
+    "timeWeek": 180,
     "timeMonth": 175,
     "timeYear": 182,
     "dailyMinutesDown": {}
@@ -167,7 +167,7 @@
     "uptimeYear": "100.00%",
     "time": 232,
     "timeDay": 249,
-    "timeWeek": 230,
+    "timeWeek": 233,
     "timeMonth": 259,
     "timeYear": 236,
     "dailyMinutesDown": {}
@@ -185,7 +185,7 @@
     "uptimeYear": "100.00%",
     "time": 224,
     "timeDay": 238,
-    "timeWeek": 218,
+    "timeWeek": 221,
     "timeMonth": 235,
     "timeYear": 225,
     "dailyMinutesDown": {}
@@ -203,7 +203,7 @@
     "uptimeYear": "67.24%",
     "time": 170,
     "timeDay": 241,
-    "timeWeek": 221,
+    "timeWeek": 224,
     "timeMonth": 229,
     "timeYear": 170,
     "dailyMinutesDown": {
@@ -366,7 +366,7 @@
     "uptimeYear": "100.00%",
     "time": 223,
     "timeDay": 244,
-    "timeWeek": 222,
+    "timeWeek": 225,
     "timeMonth": 249,
     "timeYear": 223,
     "dailyMinutesDown": {}
@@ -377,14 +377,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-08",
     "status": "up",
-    "uptime": "62.37%",
+    "uptime": "62.38%",
     "uptimeDay": "90.94%",
     "uptimeWeek": "98.71%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "98.92%",
     "time": 221,
     "timeDay": 231,
-    "timeWeek": 222,
+    "timeWeek": 224,
     "timeMonth": 229,
     "timeYear": 221,
     "dailyMinutesDown": {
@@ -450,14 +450,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "26.11%",
+    "uptimeYear": "26.09%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-18": 89,
+      "2026-10-18": 162,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -743,7 +743,7 @@
     "uptimeYear": "99.97%",
     "time": 50,
     "timeDay": 63,
-    "timeWeek": 44,
+    "timeWeek": 48,
     "timeMonth": 42,
     "timeYear": 42,
     "dailyMinutesDown": {
@@ -760,7 +760,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "15.06%",
+    "uptimeYear": "15.05%",
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
@@ -769,7 +769,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-10-18": 89,
+      "2026-10-18": 162,
       "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
@@ -1088,13 +1088,13 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.13%",
-    "uptimeDay": "4.33%",
-    "uptimeWeek": "2.85%",
-    "uptimeMonth": "45.28%",
-    "uptimeYear": "95.44%",
+    "uptimeDay": "3.84%",
+    "uptimeWeek": "2.79%",
+    "uptimeMonth": "45.12%",
+    "uptimeYear": "95.43%",
     "time": 232,
-    "timeDay": 234,
-    "timeWeek": 278,
+    "timeDay": 239,
+    "timeWeek": 280,
     "timeMonth": 265,
     "timeYear": 234,
     "dailyMinutesDown": {
@@ -1116,7 +1116,7 @@
       "2026-10-15": 1400,
       "2026-10-16": 1398,
       "2026-10-17": 1370,
-      "2026-10-18": 79
+      "2026-10-18": 152
     }
   },
   {
@@ -1132,7 +1132,7 @@
     "uptimeYear": "100.00%",
     "time": 225,
     "timeDay": 259,
-    "timeWeek": 283,
+    "timeWeek": 293,
     "timeMonth": 273,
     "timeYear": 227,
     "dailyMinutesDown": {}
@@ -1150,7 +1150,7 @@
     "uptimeYear": "100.00%",
     "time": 183,
     "timeDay": 162,
-    "timeWeek": 141,
+    "timeWeek": 144,
     "timeMonth": 140,
     "timeYear": 173,
     "dailyMinutesDown": {}
