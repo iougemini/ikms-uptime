@@ -13,7 +13,7 @@
     "time": 182,
     "timeDay": 142,
     "timeWeek": 163,
-    "timeMonth": 161,
+    "timeMonth": 160,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -24,10 +24,10 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "2.82%",
+    "uptimeDay": "2.71%",
     "uptimeWeek": "3.10%",
-    "uptimeMonth": "48.66%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "48.45%",
+    "uptimeYear": "95.70%",
     "time": 231,
     "timeDay": 264,
     "timeWeek": 268,
@@ -50,7 +50,7 @@
       "2026-10-19": 1406,
       "2026-10-20": 1401,
       "2026-10-21": 1401,
-      "2026-10-22": 78
+      "2026-10-22": 167
     }
   },
   {
@@ -67,7 +67,7 @@
     "time": 176,
     "timeDay": 145,
     "timeWeek": 168,
-    "timeMonth": 159,
+    "timeMonth": 160,
     "timeYear": 168,
     "dailyMinutesDown": {
       "2026-04-25": 77,
@@ -149,7 +149,7 @@
     "time": 184,
     "timeDay": 141,
     "timeWeek": 163,
-    "timeMonth": 170,
+    "timeMonth": 169,
     "timeYear": 181,
     "dailyMinutesDown": {}
   },
@@ -167,7 +167,7 @@
     "time": 232,
     "timeDay": 200,
     "timeWeek": 238,
-    "timeMonth": 258,
+    "timeMonth": 259,
     "timeYear": 236,
     "dailyMinutesDown": {}
   },
@@ -203,7 +203,7 @@
     "time": 170,
     "timeDay": 186,
     "timeWeek": 200,
-    "timeMonth": 222,
+    "timeMonth": 214,
     "timeYear": 171,
     "dailyMinutesDown": {
       "2025-12-13": 229,
@@ -366,7 +366,7 @@
     "time": 223,
     "timeDay": 187,
     "timeWeek": 201,
-    "timeMonth": 242,
+    "timeMonth": 221,
     "timeYear": 223,
     "dailyMinutesDown": {}
   },
@@ -379,7 +379,7 @@
     "uptime": "62.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.52%",
-    "uptimeMonth": "96.88%",
+    "uptimeMonth": "97.07%",
     "uptimeYear": "98.89%",
     "time": 221,
     "timeDay": 140,
@@ -450,14 +450,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "25.01%",
+    "uptimeYear": "25.00%",
     "time": 123,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-10-22": 90,
+      "2026-10-22": 179,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -748,7 +748,7 @@
     "time": 49,
     "timeDay": 34,
     "timeWeek": 33,
-    "timeMonth": 38,
+    "timeMonth": 37,
     "timeYear": 42,
     "dailyMinutesDown": {
       "2026-07-08": 144
@@ -764,7 +764,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "13.97%",
+    "uptimeYear": "13.95%",
     "time": 166,
     "timeDay": 0,
     "timeWeek": 0,
@@ -773,7 +773,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-10-22": 90,
+      "2026-10-22": 179,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -1096,10 +1096,10 @@
     "slug": "kms-01",
     "status": "down",
     "uptime": "98.25%",
-    "uptimeDay": "2.75%",
+    "uptimeDay": "2.71%",
     "uptimeWeek": "3.10%",
-    "uptimeMonth": "48.65%",
-    "uptimeYear": "95.72%",
+    "uptimeMonth": "48.45%",
+    "uptimeYear": "95.70%",
     "time": 231,
     "timeDay": 264,
     "timeWeek": 268,
@@ -1122,7 +1122,7 @@
       "2026-10-19": 1406,
       "2026-10-20": 1401,
       "2026-10-21": 1401,
-      "2026-10-22": 79
+      "2026-10-22": 168
     }
   },
   {
@@ -1137,7 +1137,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 225,
-    "timeDay": 174,
+    "timeDay": 202,
     "timeWeek": 242,
     "timeMonth": 259,
     "timeYear": 227,
@@ -1155,7 +1155,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 120,
+    "timeDay": 121,
     "timeWeek": 131,
     "timeMonth": 135,
     "timeYear": 172,
