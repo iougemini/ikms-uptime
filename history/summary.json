@@ -6,10 +6,10 @@
     "slug": "kms",
     "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "99.60%",
-    "uptimeWeek": "57.97%",
-    "uptimeMonth": "88.78%",
-    "uptimeYear": "99.07%",
+    "uptimeDay": "95.51%",
+    "uptimeWeek": "57.39%",
+    "uptimeMonth": "88.65%",
+    "uptimeYear": "99.05%",
     "time": 182,
     "timeDay": 0,
     "timeWeek": 162,
@@ -24,7 +24,7 @@
       "2026-10-31": 494,
       "2026-11-01": 775,
       "2026-11-02": 122,
-      "2026-11-03": 6
+      "2026-11-03": 65
     }
   },
   {
@@ -36,8 +36,8 @@
     "uptime": "98.27%",
     "uptimeDay": "1.54%",
     "uptimeWeek": "2.34%",
-    "uptimeMonth": "48.41%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "48.28%",
+    "uptimeYear": "95.69%",
     "time": 232,
     "timeDay": 211,
     "timeWeek": 262,
@@ -60,7 +60,7 @@
       "2026-10-31": 1402,
       "2026-11-01": 1407,
       "2026-11-02": 1410,
-      "2026-11-03": 229
+      "2026-11-03": 288
     }
   },
   {
@@ -461,14 +461,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "21.70%",
+    "uptimeYear": "21.68%",
     "time": 124,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 127,
     "dailyMinutesDown": {
-      "2026-11-03": 241,
+      "2026-11-03": 300,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -787,7 +787,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.65%",
+    "uptimeYear": "10.64%",
     "time": 165,
     "timeDay": 0,
     "timeWeek": 0,
@@ -796,7 +796,7 @@
     "dailyMinutesDown": {
       "2025-12-11": 339,
       "2025-12-12": 1044,
-      "2026-11-03": 242,
+      "2026-11-03": 300,
       "2026-11-02": 1440,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
@@ -1130,11 +1130,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "kms-01",
     "status": "down",
-    "uptime": "98.27%",
+    "uptime": "98.26%",
     "uptimeDay": "1.54%",
     "uptimeWeek": "2.34%",
-    "uptimeMonth": "48.41%",
-    "uptimeYear": "95.70%",
+    "uptimeMonth": "48.27%",
+    "uptimeYear": "95.69%",
     "time": 232,
     "timeDay": 211,
     "timeWeek": 262,
@@ -1157,7 +1157,7 @@
       "2026-10-31": 1402,
       "2026-11-01": 1407,
       "2026-11-02": 1410,
-      "2026-11-03": 230
+      "2026-11-03": 289
     }
   },
   {
